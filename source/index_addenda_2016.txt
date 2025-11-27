@@ -1,0 +1,300 @@
+
+
+Lttr             A
+Main             Abdominohysterectomy
+     Delete        see Excision, Uterus 0UB9
+     Add           see Resection, Cervix 0UTC
+Main Delete      Arachnoid mater
+     Delete        use Spinal Meninges
+     Delete        use Cerebral Meninges
+Main Delete      Aspiration see Drainage
+Main Add         Acetabular cup use Liner in Lower Joints
+Main Add         Arachnoid mater, intracranial use Cerebral Meninges
+Main Add         Arachnoid mater, spinal use Spinal Meninges
+Main Add         Aspiration, fine needle
+     Add           fluid or gas see Drainage
+     Add           tissue see Excision
+
+
+Lttr             B
+Main Add         Blinatumomab Antineoplastic Immunotherapy XW0
+
+
+Lttr             C
+Main Delete      Cranial dura mater use Dura Mater
+Main Delete      Cranial epidural space use Epidural Space
+Main Delete      Cranial subarachnoid space use Subarachnoid Space
+Main Delete      Cranial subdural space use Subdural Space
+Main Add         Ceftazidime-Avibactam Anti-infective XW0
+Main Add         Circumcision 0VTTXZZ
+Main Revise from Cricoid cartilage use Larynx
+Main Revise to   Cricoid cartilage use Trachea
+
+
+Lttr             D
+Main Delete      Dentate ligament use Dura Mater
+Main Delete      Denticulate ligament use Spinal Meninges
+Main Add         Denticulate (dentate) ligament use Spinal Meninges
+Main Add         Dura mater, intracranial use Dura Mater
+Main Add         Dura mater, spinal use Spinal Meninges
+
+
+Lttr             E
+Main Add         Epidural space, intracranial use Epidural Space
+Main Add         Epidural space, spinal use Spinal Canal
+Main             Epiretinal Visual Prosthesis
+     Delete        use Epiretinal Visual Prosthesis in Eye
+     Delete        Insertion of device in
+     Delete          Left 08H105Z
+     Delete          Right 08H005Z
+     Add           Left 08H105Z
+     Add           Right 08H005Z
+Main             Extirpation
+     Add           Orbital Atherectomy Technology X2C
+Main Delete      Extradural space use Epidural Space
+Main Add         Extradural space, intracranial use Epidural Space
+Main Add         Extradural space, spinal use Spinal Canal
+
+
+Lttr             F
+Main Add         Fine needle aspiration
+     Add           fluid or gas see Drainage
+     Add           tissue see Excision
+Main Add         Fluoroscopy, laser intraoperative
+     Add           see Fluoroscopy, Heart B21
+     Add           see Fluoroscopy, Upper Arteries B31
+     Add           see Fluoroscopy, Lower Arteries B41
+
+
+Lttr             G
+Main             Glenoid ligament (labrum)
+     Delete        use Shoulder Bursa and Ligament, Right
+     Delete        use Shoulder Bursa and Ligament, Left
+     Add           use Shoulder Joint, Right
+     Add           use Shoulder Joint, Left
+
+
+Lttr             H
+Main             Hysterectomy
+     Delete        see Excision, Uterus 0UB9
+     Delete        see Resection, Uterus 0UT9
+     Add           supracervical see Resection, Uterus 0UT9
+     Add           total
+     Add             see Resection, Uterus 0UT9
+     Add             see Resection, Cervix 0UTC
+Main Revise from Hysterotrachelectomy see Resection, Uterus 0UT9
+Main Revise to   Hysterotrachelectomy
+     Add           see Resection, Uterus 0UT9
+     Add           see Resection, Cervix 0UTC
+
+
+Lttr             I
+Main Add         Idarucizumab, Dabigatran Reversal Agent XW0
+Main             Interspinous ligament
+     Add           use Head and Neck Bursa and Ligament
+Main Add         Intraoperative Knee Replacement Sensor XR2
+Main Add         Isavuconazole Anti-infective XW0
+
+
+Lttr             L
+Main Delete      Leptomeninges
+     Delete        use Cerebral Meninges
+     Delete        use Spinal Meninges
+Main Add         Leptomeninges, intracranial use Cerebral Meninges
+Main Add         Leptomeninges, spinal use Spinal Meninges
+Main Add         LITT (laser interstitial thermal therapy) see Laser Interstitial Thermal Therapy
+
+
+Lttr             M
+Main             Mammary duct
+     Delete        use Breasts, Bilateral
+     Add           use Breast, Bilateral
+Main             Mammary gland
+     Delete        use Breasts, Bilateral
+     Add           use Breast, Bilateral
+Main Delete      Meniscectomy
+     Delete        see Excision, Lower Joints 0SB
+     Delete        see Resection, Lower Joints 0ST
+Main Add         Meniscectomy, knee see Excision, Lower Joints 0SB
+Main             Monitoring
+     Add           Intraoperative Knee Replacement Sensor XR2
+
+
+Lttr             N
+Main Add         New Technology
+     Add           Blinatumomab Antineoplastic Immunotherapy XW0
+     Add           Ceftazidime-Avibactam Anti-infective XW0
+     Add           Idarucizumab, Dabigatran Reversal Agent XW0
+     Add           Intraoperative Knee Replacement Sensor XR2
+     Add           Isavuconazole Anti-infective XW0
+     Add           Orbital Atherectomy Technology X2C
+Main Revise from Nonimaging Nuclear Medicine Probe CP5YYZZ
+Main Revise to   Nonimaging Nuclear Medicine Probe
+                   Extremity
+     Revise from     Lower CP5
+     Revise to       Lower CP5PZZZ
+     Revise from     Upper CP5
+     Revise to       Upper CP5NZZZ
+     Add           Musculoskeletal System, Other CP5YYZZ
+
+
+Lttr             O
+Main             Occlusion
+                   Artery
+                     Internal Iliac
+     Delete            Left, Uterine Artery, Left 04LF
+     Delete            Right, Uterine Artery, Right 04LE
+     Add               Left 04LF
+     Add               Right 04LE
+Main Add         Orbital Atherectomy Technology X2C
+
+
+Lttr             P
+Main Revise from PEG (percutaneous endoscopic gastrostomy) 0DH64UZ
+Main Revise to   PEG (percutaneous endoscopic gastrostomy) 0DH63UZ
+Main Revise from PEJ (percutaneous endoscopic jejunostomy) 0DHA4UZ
+Main Revise to   PEJ (percutaneous endoscopic jejunostomy) 0DHA3UZ
+Main Delete      Pia mater
+     Delete        use Spinal Meninges
+     Delete        use Cerebral Meninges
+Main Add         Pia mater, intracranial use Cerebral Meninges
+Main Add         Pia mater, spinal use Spinal Meninges
+Main Revise from Planar Nuclear Medicine Imaging CP1
+Main Revise to   Planar Nuclear Medicine Imaging
+     Delete        Musculoskeletal System, All CP1Z
+     Add           Anatomical Region, Other CW1ZZZZ
+     Add           Musculoskeletal System
+     Add             All CP1Z
+     Add             Other CP1YYZZ
+
+
+Lttr             R
+Main             Radiation Therapy
+     Add           see Stereotactic Radiosurgery
+     Add           see 
+Main Revise from Radiation treatment see Radiation Oncology
+Main Revise to   Radiation treatment see Radiation Therapy
+Main Add         Rehabilitation
+     Add           see Speech Assessment, Rehabilitation F00
+     Add           see Motor Function Assessment, Rehabilitation F01
+     Add           see Activities of Daily Living Assessment, Rehabilitation F02
+     Add           see Speech Treatment, Rehabilitation F06
+     Add           see Motor Treatment, Rehabilitation F07
+     Add           see Activities of Daily Living Treatment, Rehabilitation F08
+     Add           see Hearing Treatment, Rehabilitation F09
+     Add           see Cochlear Implant Treatment, Rehabilitation F0B
+     Add           see Vestibular Treatment, Rehabilitation F0C
+     Add           see Device Fitting, Rehabilitation F0D
+     Add           see Caregiver Training, Rehabilitation F0F
+Main Add         Repair, obstetric laceration, periurethral 0UQMXZZ
+Main Add         Replacement, hip
+     Add           Partial or total see Replacement, Lower Joints 0SR
+     Add           Resurfacing only see Supplement, Lower Joints 0SU
+Main Add         Revision
+     Add           Correcting a portion of existing device see Revision of device in
+     Add           Removal of device without replacement see Removal of device from
+     Add           Replacement of existing device
+     Add             see Removal of device from
+     Add             see Root operation to place new device, e.g., Insertion, Replacement, Supplement
+
+
+Lttr             S
+Main Delete      Spinal dura mater use Dura Mater
+Main Delete      Spinal epidural space use Epidural Space
+Main Delete      Spinal subarachnoid space use Subarachnoid Space
+Main Delete      Spinal subdural space use Subdural Space
+Main             Stereotactic Radiosurgery
+     Add           Abdomen DW23
+     Add           Adrenal Gland DG22
+     Add           Bile Ducts DF22
+     Add           Bladder DT22
+     Add           Bone Marrow D720
+     Add           Brain D020
+     Add           Brain Stem D021
+     Add           Breast
+     Add             Left DM20
+     Add             Right DM21
+     Add           Bronchus DB21
+     Add           Cervix DU21
+     Add           Chest DW22
+     Add           Chest Wall DB27
+     Add           Colon DD25
+     Add           Diaphragm DB28
+     Add           Duodenum DD22
+     Add           Ear D920
+     Add           Esophagus DD20
+     Add           Eye D820
+     Add           Gallbladder DF21
+     Add           Gland
+     Add             Adrenal DG22
+     Add             Parathyroid DG24
+     Add             Pituitary DG20
+     Add             Thyroid DG25
+     Add           Glands, Salivary D926
+     Add           Head and Neck DW21
+     Add           Ileum DD24
+     Add           Jejunum DD23
+     Add           Kidney DT20
+     Add           Larynx D92B
+     Add           Liver DF20
+     Add           Lung DB22
+     Add           Lymphatics
+     Add             Abdomen D726
+     Add             Axillary D724
+     Add             Inguinal D728
+     Add             Neck D723
+     Add             Pelvis D727
+     Add             Thorax D725
+     Add           Mediastinum DB26
+     Add           Mouth D924
+     Add           Nasopharynx D92D
+     Add           Neck and Head DW21
+     Add           Nerve, Peripheral D027
+     Add           Nose D921
+     Add           Ovary DU20
+     Add           Palate
+     Add             Hard D928
+     Add             Soft D929
+     Add           Pancreas DF23
+     Add           Parathyroid Gland DG24
+     Add           Pelvic Region DW26
+     Add           Pharynx D92C
+     Add           Pineal Body DG21
+     Add           Pituitary Gland DG20
+     Add           Pleura DB25
+     Add           Prostate DV20
+     Add           Rectum DD27
+     Add           Sinuses D927
+     Add           Spinal Cord D026
+     Add           Spleen D722
+     Add           Stomach DD21
+     Add           Testis DV21
+     Add           Thymus D721
+     Add           Thyroid Gland DG25
+     Add           Tongue D925
+     Add           Trachea DB20
+     Add           Ureter DT21
+     Add           Urethra DT23
+     Add           Uterus DU22
+Main Delete      Suction see Drainage
+Main Add         Subarachnoid space, intracranial use Subarachnoid Space
+Main Add         Subarachnoid space, spinal use Spinal Canal
+Main Add         Subdural space, intracranial use Subdural Space
+Main Add         Subdural space, spinal use Spinal Canal
+
+
+Lttr             T
+Main Add         Tibial insert use Liner in Lower Joints
+Main Revise from Tomographic (Tomo) Nuclear Medicine Imaging CP2YYZZ
+Main Revise to   Tomographic (Tomo) Nuclear Medicine Imaging
+     Add           Musculoskeletal System, Other CP2YYZZ
+
+
+Lttr             U
+Main             Uterine Artery
+     Delete        Left, Occlusion, Artery, Internal Iliac, Left 04LF
+     Delete        Right, Occlusion, Artery, Internal Iliac, Right 04LE
+
+
+Lttr             V
+Main Add         VH-IVUS (virtual histology intravascular ultrasound) see Ultrasonography, Heart B24

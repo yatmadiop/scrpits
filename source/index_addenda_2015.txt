@@ -1,0 +1,232 @@
+
+
+Lttr             A
+Main Add         Absolute Pro Vascular (OTW) Self-Expanding Stent System <i>use</i> Intraluminal Device
+Main Add         Acculink (RX) Carotid Stent System <i>use</i> Intraluminal Device
+Main Add         Advisa (MRI) <i>use</i> Pacemaker, Dual Chamber in 0JH
+Main Add         AIGISRx Antibacterial Envelope <i>use</i> Anti-Infective Envelope
+Main Add         Antimicrobial envelope <i>use</i> Anti-Infective Envelope
+Main Add         Ascenda Intrathecal Catheter <i>use</i> Infusion Device
+
+
+Lttr             B
+Main Revise from Banding <i>see</i> Restriction
+Main Revise to   Banding
+     Add           <i>see</i> Restriction
+     Add           <i>see</i> Occlusion
+Main             Baroreflex Activation Therapy® (BAT®)
+     Delete        <i>use</i> Cardiac Rhythm Related Device in Subcutaneous Tissue and Fascia
+     Add           <i>use</i> Stimulator Generator in Subcutaneous Tissue and Fascia
+Main Add         Bedside swallow F00ZJWZ
+Main Add         Bone morphogenetic protein 2 (BMP 2) <i>use</i> Recombinant Bone Morphogenetic Protein
+
+
+Lttr             C
+Main Revise from Centrimag® Blood Pump <i>use</i> Intraluminal Device
+Main Revise to   Centrimag® Blood Pump <i>use</i> External Heart Assist System in Heart and Great Vessels
+Main Add         Clolar <i>use</i> Clofarabine
+Main Revise from Costotransverse joint
+Main Revise to   Costotransverse joint <i>use</i> Joint, Thoracic Vertebral
+     Delete        <i>use</i> Joint, Thoracic Vertebral
+     Delete        <i>use</i> Joint, Thoracic Vertebral, 2 to 7
+     Delete        <i>use</i> Joint, Thoracic Vertebral, 8 or more
+Main Revise from Costovertebral joint
+Main Revise to   Costovertebral joint <i>use</i> Joint, Thoracic Vertebral
+     Delete        <i>use</i> Joint, Thoracic Vertebral, 8 or more
+     Delete        <i>use</i> Joint, Thoracic Vertebral, 2 to 7
+     Delete        <i>use</i> Joint, Thoracic Vertebral
+
+
+Lttr             E
+Main Add         Evera (XT)(S)(DR/VR) <i>use</i> Defibrillator Generator in 0JH
+
+
+Lttr             H
+Main Add         Hemilaminotomy
+     Add           <i>see</i> Excision, Upper Bones 0PB
+     Add           <i>see</i> Excision, Lower Bones 0QB
+     Add           <i>see</i> Release, Central Nervous System 00N
+     Add           <i>see</i> Release, Peripheral Nervous System 01N
+     Add           <i>see</i> Drainage, Upper Bones 0P9
+     Add           <i>see</i> Release, Upper Bones 0PN
+     Add           <i>see</i> Drainage, Lower Bones 0Q9
+     Add           <i>see</i> Release, Lower Bones 0QN
+Main Add         Herculink (RX) Elite Renal Stent System <i>use</i> Intraluminal Device
+
+
+Lttr             I
+Main Delete      Impella® (2.5)(5.0)(LD) cardiac assist device <i>use</i> Intraluminal Device
+Main Delete      Infusion Device
+     Delete        Insertion of device in
+     Delete          Abdomen 0JH8
+     Delete          Back 0JH7
+     Delete          Chest 0JH6
+     Delete          Lower Arm
+     Delete            Left 0JHH
+     Delete            Right 0JHG
+     Delete          Lower Leg
+     Delete            Left 0JHP
+     Delete            Right 0JHN
+     Delete          Trunk 0JHT
+     Delete          Upper Arm
+     Delete            Left 0JHF
+     Delete            Right 0JHD
+     Delete          Upper Leg
+     Delete            Left 0JHM
+     Delete            Right 0JHL
+     Delete        Removal of device from
+     Delete          Lower Extremity 0JPW
+     Delete          Trunk 0JPT
+     Delete          Upper Extremity 0JPV
+     Delete        Revision of device in
+     Delete          Lower Extremity 0JWW
+     Delete          Trunk 0JWT
+     Delete          Upper Extremity 0JWV
+Main Add         Infusion Device, Pump
+     Add           Insertion of device in
+     Add             Abdomen 0JH8
+     Add             Back 0JH7
+     Add             Chest 0JH6
+     Add             Lower Arm
+     Add               Left 0JHH
+     Add               Right 0JHG
+     Add             Lower Leg
+     Add               Left 0JHP
+     Add               Right 0JHN
+     Add             Trunk 0JHT
+     Add             Upper Arm
+     Add               Left 0JHF
+     Add               Right 0JHD
+     Add             Upper Leg
+     Add               Left 0JHM
+     Add               Right 0JHL
+     Add           Removal of device from
+     Add             Lower Extremity 0JPW
+     Add             Trunk 0JPT
+     Add             Upper Extremity 0JPV
+     Add           Revision of device in
+     Add             Lower Extremity 0JWW
+     Add             Trunk 0JWT
+     Add             Upper Extremity 0JWV
+
+
+Lttr             K
+Main Delete      Kinetra® neurostimulator <i>use</i> Stimulator Generator, Multiple Array in 0JH
+Main Add         Kcentra <i>use</i> 4-Factor Prothrombin Complex Concentrate
+
+
+Lttr             L
+Main             Laminotomy
+     Delete        <i>see</i> Drainage, Upper Joints 0R9
+     Delete        <i>see</i> Drainage, Lower Joints 0S9
+     Delete        <i>see</i> Release, Upper Joints 0RN
+     Delete        <i>see</i> Release, Lower Joints 0SN
+     Add           <i>see</i> Drainage, Upper Bones 0P9
+     Add           <i>see</i> Drainage, Lower Bones 0Q9
+     Add           <i>see</i> Release, Upper Bones 0PN
+     Add           <i>see</i> Release, Lower Bones 0QN
+     Add           <i>see</i> Excision, Upper Bones 0PB
+     Add           <i>see</i> Excision, Lower Bones 0QB
+Main Revise from Lumbar facet joint
+Main Revise to   Lumbar facet joint <i>use</i> Joint, Lumbar Vertebral
+     Delete        <i>use</i> Joint, Lumbar Vertebral, 2 or more
+     Delete        <i>use</i> Joint, Lumbar Vertebral
+
+
+Lttr             M
+Main Delete      Monitoring Device
+     Delete        Abdomen 0JH8
+     Delete        Chest 0JH6
+Main Add         Monitoring Device, Hemodynamic
+     Add           Abdomen 0JH8
+     Add           Chest 0JH6
+Main Add         Mosaic Bioprosthesis (aortic) (mitral) valve <i>use</i> Zooplastic Tissue in Heart and Great Vessels
+Main Add         MULTI-LINK (VISION)(MINI-VISION)(ULTRA) Coronary Stent System <i>use</i> Intraluminal Device
+
+
+Lttr             N
+Main Add         Nesiritide <i>use</i> Human B-type Natriuretic Peptide
+
+
+Lttr             O
+Main Add         Omnilink Elite Vascular Balloon Expandable Stent System <i>use</i> Intraluminal Device
+Main Add         Open Pivot (mechanical) valve <i>use</i> Synthetic Substitute
+Main Add         Open Pivot Aortic Valve Graft (AVG) <i>use</i> Synthetic Substitute
+Main             Oxygenation
+     Revise from   Extracorporeal membrane (ECMO) <i>see</i> Assistance, Circulatory 5A05
+     Revise to     Extracorporeal membrane (ECMO) <i>see</i> Performance, Circulatory 5A15
+
+
+Lttr             P
+Main Delete      Pharmacotherapy
+     Delete        Antabuse HZ93ZZZ
+     Delete        Bupropion HZ97ZZZ
+     Delete        Clonidine HZ96ZZZ
+     Delete        Levo-alpha-acetyl-methadol (LAAM) HZ92ZZZ
+     Delete        Methadone Maintenance HZ91ZZZ
+     Delete        Naloxone HZ95ZZZ
+     Delete        Naltrexone HZ94ZZZ
+     Delete        Nicotine Replacement HZ90ZZZ
+     Delete        Psychiatric Medication HZ98ZZZ
+     Delete        Replacement Medication, Other HZ99ZZZ
+Main Delete      PrimeAdvanced neurostimulator <i>use</i> Stimulator Generator, Multiple Array in 0JH
+Main Add         Pharmacotherapy, for substance abuse
+     Add           Antabuse HZ93ZZZ
+     Add           Bupropion HZ97ZZZ
+     Add           Clonidine HZ96ZZZ
+     Add           Levo-alpha-acetyl-methadol (LAAM) HZ92ZZZ
+     Add           Methadone Maintenance HZ91ZZZ
+     Add           Naloxone HZ95ZZZ
+     Add           Naltrexone HZ94ZZZ
+     Add           Nicotine Replacement HZ90ZZZ
+     Add           Psychiatric Medication HZ98ZZZ
+     Add           Replacement Medication, Other HZ99ZZZ
+Main Add         PrimeAdvanced neurostimulator (SureScan)(MRI Safe) <i>use</i> Stimulator Generator, Multiple Array in 0JH
+
+
+Lttr             R
+Main Delete      RestoreAdvanced neurostimulator <i>use</i> Stimulator Generator, Multiple Array Rechargeable in 0JH
+Main Delete      RestoreSensor neurostimulator <i>use</i> Stimulator Generator, Multiple Array Rechargeable in 0JH
+Main Delete      RestoreUltra neurostimulator <i>use</i> Stimulator Generator, Multiple Array Rechargeable in 0JH
+Main Add         RestoreAdvanced neurostimulator (SureScan)(MRI Safe) <i>use</i> Stimulator Generator, Multiple Array Rechargeable in 0JH
+Main Add         RestoreSensor neurostimulator (SureScan)(MRI Safe) <i>use</i> Stimulator Generator, Multiple Array Rechargeable in 0JH
+Main Add         RestoreUltra neurostimulator (SureScan)(MRI Safe) <i>use</i> Stimulator Generator, Multiple Array Rechargeable in 0JH
+Main Add         rhBMP-2 <i>use</i> Recombinant Bone Morphogenetic Protein
+Main Revise from Rheos® System device <i>use</i> Cardiac Rhythm Related Device in Subcutaneous Tissue and Fascia
+Main Revise to   Rheos® System device <i>use</i> Stimulator Generator in Subcutaneous Tissue and Fascia
+
+
+Lttr             S
+Main Delete      Soletra® neurostimulator <i>use</i> Stimulator Generator, Single Array in 0JH
+Main Delete      Stent (angioplasty)(embolization) <i>use</i> Intraluminal Device
+Main Add         Seprafilm <i>use</i> Adhesion Barrier
+Main Add         Stent, intraluminal (cardiovascular)(gastrointestinal)(hepatobiliary)(urinary) <i>use</i> Intraluminal Device
+Main Add         SynchroMed pump <i>use</i> Infusion Device, Pump in Subcutaneous Tissue and Fascia
+
+
+Lttr             T
+Main Revise from Thoracic facet joint
+Main Revise to   Thoracic facet joint <i>use</i> Joint, Thoracic Vertebral
+     Delete        <i>use</i> Joint, Thoracic Vertebral, 2 to 7
+     Delete        <i>use</i> Joint, Thoracic Vertebral, 8 or more
+     Delete        <i>use</i> Joint, Thoracic Vertebral
+Main Add         Tissue Plasminogen Activator (tPA)(r-tPA) <i>use</i> Thrombolytic, Other
+Main Revise from TURP (transurethral resection of prostate) 0VB07ZZ
+Main Revise to   TURP (transurethral resection of prostate)
+     Add           <i>see</i> Excision, Prostate 0VB0
+     Add           <i>see</i> Resection, Prostate 0VT0
+
+
+Lttr             V
+Main Add         Viva (XT)(S) <i>use</i> Cardiac Resynchronization Defibrillator Pulse Generator in 0JH
+Main Add         Voraxaze <i>use</i> Glucarpidase
+
+
+Lttr             X
+Main Delete      XIENCE V Everolimus Eluting Coronary Stent System <i>use</i> Intraluminal Device, Drug-eluting in Heart and Great Vessels
+Main Add         Xact Carotid Stent System <i>use</i> Intraluminal Device
+Main Add         XIENCE Everolimus Eluting Coronary Stent System <i>use</i> Intraluminal Device, Drug-eluting in Heart and Great Vessels
+
+
+Lttr             Z
+Main Add         Zyvox <i>use</i> Oxazolidinones

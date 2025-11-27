@@ -1,0 +1,368 @@
+
+
+Lttr             A
+Main Add         Accelerate PhenoTest(tm) BC XXE5XN6
+Main Add         Acoustic Pulse Thrombolysis see Fragmentation, Artery
+Main Add         ACTEMRA(R) use Tocilizumab
+Main             Assistance
+                   Respiratory
+                     24-96 Consecutive Hours
+     Add               High Nasal Flow/Velocity 5A0945A
+                     Greater than 96 Consecutive Hours
+     Add               High Nasal Flow/Velocity 5A0955A
+                     Less than 24 Consecutive Hours
+     Add               High Nasal Flow/Velocity 5A0935A
+Main Add         Atezolizumab Antineoplastic XW0
+
+
+Lttr             B
+Main Add         Bamlanivimab Monoclonal Antibody XW0
+Main Add         Baricitinib XW0
+Main Add         Barricaid(R) Annular Closure Device (ACD) use Synthetic Substitute
+Main Add         BioFire(R) FilmArray(R) Pneumonia Panel XXEBXQ6
+Main Add         Brexanolone XW0
+Main Add         Brexucabtagene Autoleucel use Brexucabtagene Autoleucel Immunotherapy
+Main Add         Brexucabtagene Autoleucel Immunotherapy XW2
+
+
+Lttr             C
+Main Add         CD24Fc Immunomodulator XW0
+Main Add         Cefiderocol Anti-infective XW0
+Main Add         Ceftolozane/Tazobactam Anti-infective XW0
+Main             Cerebral Embolic Filtration
+     Add           Extracorporeal Flow Reversal Circuit X2A
+Main Add         ContaCT software (Measurement of intracranial arterial flow) 4A03X5D
+Main Add         Convalescent Plasma (Nonautologous) see New Technology, Anatomical Regions XW1
+Main Revise from Cook Zenith AAA Endovascular Graft
+     Revise to   Cook Zenith AAA Endovascular Graft use Intraluminal Device
+     Delete        use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Delete        use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+     Delete        use Intraluminal Device
+Main Add         Cook Zenith(R) Fenestrated AAA Endovascular Graft
+     Add           use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Add           use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+Main Add         Corvia IASD(R) use Synthetic Substitute
+Main Add         COVID-19 Vaccine XW0
+Main Add         COVID-19 Vaccine Dose 1 XW0
+Main Add         COVID-19 Vaccine Dose 2 XW0
+
+
+Lttr             D
+Main Add         Durvalumab Antineoplastic XW0
+Main Add         DynaNail Mini(R)
+     Add           use Internal Fixation Device, Sustained Compression in 0RG
+     Add           use Internal Fixation Device, Sustained Compression in 0SG
+Main Add         DynaNail(R)
+     Add           use Internal Fixation Device, Sustained Compression in 0RG
+     Add           use Internal Fixation Device, Sustained Compression in 0SG
+
+
+Lttr             E
+Main Add         EchoTip(R) Insight(tm) Portosystemic Pressure Gradient Measurement System 4A044B2
+Main Add         Eculizumab XW0
+Main Add         EKOS(tm) EkoSonic(R) Endovascular System see Fragmentation, Artery
+Main Add         Eladocagene exuparvovec XW0Q316
+Main Add         ENROUTE(R) Transcarotid Neuroprotection System see New Technology, Cardiovascular System X2A
+Main Add         Esketamine Hydrochloride XW097M5
+Main Add         Etesevimab Monoclonal Antibody XW0
+
+
+Lttr             F
+Main Add         FETROJA(R) use Cefiderocol Anti-infective
+Main             Fragmentation
+     Add           Artery
+     Add             Anterior Tibial
+     Add               Left 04FQ3Z
+     Add               Right 04FP3Z
+     Add             Axillary
+     Add               Left 03F63Z
+     Add               Right 03F53Z
+     Add             Brachial
+     Add               Left 03F83Z
+     Add               Right 03F73Z
+     Add             Common Iliac
+     Add               Left 04FD3Z
+     Add               Right 04FC3Z
+     Add             External Iliac
+     Add               Left 04FJ3Z
+     Add               Right 04FH3Z
+     Add             Femoral
+     Add               Left 04FL3Z
+     Add               Right 04FK3Z
+     Add             Innominate 03F23Z
+     Add             Internal Iliac
+     Add               Left 04FF3Z
+     Add               Right 04FE3Z
+     Add             Lower 04FY3Z
+     Add             Peroneal
+     Add               Left 04FU3Z
+     Add               Right 04FT3Z
+     Add             Popliteal
+     Add               Left 04FN3Z
+     Add               Right 04FM3Z
+     Add             Posterior Tibial
+     Add               Left 04FS3Z
+     Add               Right 04FR3Z
+     Add             Pulmonary
+     Add               Left 02FR3Z
+     Add               Right 02FQ3Z
+     Add             Pulmonary Trunk 02FP3Z
+     Add             Radial
+     Add               Left 03FC3Z
+     Add               Right 03FB3Z
+     Add             Subclavian
+     Add               Left 03F43Z
+     Add               Right 03F33Z
+     Add             Ulnar
+     Add               Left 03FA3Z
+     Add               Right 03F93Z
+     Add             Upper 03FY3Z
+     Add           Vein
+     Add             Axillary
+     Add               Left 05F83Z
+     Add               Right 05F73Z
+     Add             Basilic
+     Add               Left 05FC3Z
+     Add               Right 05FB3Z
+     Add             Brachial
+     Add               Left 05FA3Z
+     Add               Right 05F93Z
+     Add             Cephalic
+     Add               Left 05FF3Z
+     Add               Right 05FD3Z
+     Add             Common Iliac
+     Add               Left 06FD3Z
+     Add               Right 06FC3Z
+     Add             External Iliac
+     Add               Left 06FG3Z
+     Add               Right 06FF3Z
+     Add             Femoral
+     Add               Left 06FN3Z
+     Add               Right 06FM3Z
+     Add             Hypogastric
+     Add               Left 06FJ3Z
+     Add               Right 06FH3Z
+     Add             Innominate
+     Add               Left 05F43Z
+     Add               Right 05F33Z
+     Add             Lower 06FY3Z
+     Add             Pulmonary
+     Add               Left 02FT3Z
+     Add               Right 02FS3Z
+     Add             Saphenous
+     Add               Left 06FQ3Z
+     Add               Right 06FP3Z
+     Add             Subclavian
+     Add               Left 05F63Z
+     Add               Right 05F53Z
+     Add             Upper 05FY3Z
+Main Add         Fragmentation, Ultrasonic see Fragmentation, Artery
+
+
+Lttr             G
+Main Add         GS-5734 use Remdesivir Anti-infective
+
+
+Lttr             H
+Main Add         Hemospray(R) Endoscopic Hemostat use Mineral-based Topical Hemostatic Agent
+
+
+Lttr             I
+Main Delete      Infection, Whole Blood Nucleic Acid-base Microbial Detection, Measurement XXE5XM5
+Main Add         IASD(R) (InterAtrial Shunt Device), Corvia use Synthetic Substitute
+Main Add         IMFINZI(R) use Durvalumab Antineoplastic
+Main             Insertion of device in
+     Add           Bone Marrow 07HT
+Main Add         InterAtrial Shunt Device IASD(R), Corvia use Synthetic Substitute
+Main Add         Intra.OX 8E02XDZ
+Main             Intraoperative Radiation Therapy (IORT)
+     Add           Brain D0Y0CZZ
+     Add           Brain Stem D0Y1CZZ
+     Add           Nerve, Peripheral D0Y7CZZ
+     Add           Spinal Cord D0Y6CZZ
+Main Add         Intravascular Lithotripsy (IVL) see Fragmentation
+Main Add         Intravascular ultrasound assisted thrombolysis see Fragmentation, Artery
+
+
+Lttr             K
+Main Add         KEVZARA(R) use Sarilumab
+
+
+Lttr             L
+Main Add         Lefamulin Anti-infective XW0
+Main Add         Leronlimab Monoclonal Antibody XW013K6
+Main Add         Lisocabtagene Maraleucel use Lisocabtagene Maraleucel Immunotherapy
+Main Add         Lisocabtagene Maraleucel Immunotherapy XW2
+Main Add         Lithoplasty see Fragmentation
+Main Add         Lower Respiratory Fluid Nucleic Acid-base Microbial Detection XXEBXQ6
+
+
+Lttr             M
+Main             Measurement
+                   Arterial
+                     Flow
+     Add               Intracranial 4A03X5D
+     Delete        Infection, Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+     Add           Lower Respiratory Fluid Nucleic Acid-base Microbial Detection XXEBXQ6
+                   Musculoskeletal
+     Add             Pressure 4A0F3BE
+     Add           Positive Blood Culture Fluorescence Hybridization for Organism Identification, Concentration and Susceptibility XXE5XN6
+     Add           Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+Main Add         Mineral-based Topical Hemostatic Agent XW0
+Main Add         MolecuLight i:X(R) wound imaging see Other Imaging, Anatomical Regions BW5
+
+
+Lttr             N
+Main Add         NA-1 (Nerinitide) use Nerinitide
+Main Revise from Near Infrared Spectroscopy, Circulatory System 8E023DZ
+     Revise to   Near Infrared Spectroscopy, Circulatory System 8E02
+Main Add         Nerinitide XW0
+Main             New Technology
+     Add           Atezolizumab Antineoplastic XW0
+     Add           Bamlanivimab Monoclonal Antibody XW0
+     Add           Baricitinib XW0
+     Add           Brexanolone XW0
+     Add           Brexucabtagene Autoleucel Immunotherapy XW2
+     Add           CD24Fc Immunomodulator XW0
+     Add           Cefiderocol Anti-infective XW0
+     Add           Ceftolozane/Tazobactam Anti-infective XW0
+                   Cerebral Embolic Filtration
+     Add             Extracorporeal Flow Reversal Circuit X2A
+     Delete        Measurement, Infection, Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+     Add           COVID-19 Vaccine XW0
+     Add           COVID-19 Vaccine Dose 1 XW0
+     Add           COVID-19 Vaccine Dose 2 XW0
+     Add           Durvalumab Antineoplastic XW0
+     Add           Eculizumab XW0
+     Add           Eladocagene exuparvovec XW0Q316
+     Add           Esketamine Hydrochloride XW097M5
+     Add           Etesevimab Monoclonal Antibody XW0
+     Add           Lefamulin Anti-infective XW0
+     Add           Leronlimab Monoclonal Antibody XW013K6
+     Add           Lisocabtagene Maraleucel Immunotherapy XW2
+     Add           Lower Respiratory Fluid Nucleic Acid-base Microbial Detection XXEBXQ6
+     Add           Mineral-based Topical Hemostatic Agent XW0
+     Add           Nerinitide XW0
+     Add           Omadacycline Anti-infective XW0
+     Add           Other New Technology Monoclonal Antibody XW0
+     Add           Plasma, Convalescent (Nonautologous) XW1
+     Add           Positive Blood Culture Fluorescence Hybridization for Organism Identification, Concentration and Susceptibility XXE5XN6
+     Add           REGN-COV2 Monoclonal Antibody XW0
+     Add           Remdesivir Anti-infective XW0
+     Add           Sarilumab XW0
+     Add           Supplement
+     Add             Lumbar, Mechanically Expandable (Paired) Synthetic Substitute XNU0356
+     Add             Thoracic, Mechanically Expandable (Paired) Synthetic Substitute XNU4356
+     Add           Tocilizumab XW0
+     Add           Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+Main Add         NIRS (Near Infrared Spectroscopy) see Physiological Systems and Anatomical Regions 8E0
+Main Add         NUZYRA(tm) use Omadacycline Anti-infective
+
+
+Lttr             O
+Main Add         Olumiant(R) use Baricitinib
+Main Add         Omadacycline Anti-infective XW0
+Main Add         Other Imaging
+     Add           Bile Duct, Indocyanine Green Dye, Intraoperative BF50200
+     Add           Bile Duct and Gallbladder, Indocyanine Green Dye, Intraoperative BF53200
+     Add           Extremity
+     Add             Lower BW5CZ1Z
+     Add             Upper BW5JZ1Z
+     Add           Gallbladder, Indocyanine Green Dye, Intraoperative BF52200
+     Add           Gallbladder and Bile Duct, Indocyanine Green Dye, Intraoperative BF53200
+     Add           Head and Neck BW59Z1Z
+     Add           Hepatobiliary System, All, Indocyanine Green Dye, Intraoperative BF5C200
+     Add           Liver, Indocyanine Green Dye, Intraoperative BF55200
+     Add           Liver and Spleen, Indocyanine Green Dye, Intraoperative BF56200
+     Add           Neck and Head BW59Z1Z
+     Add           Pancreas, Indocyanine Green Dye, Intraoperative BF57200
+     Add           Spleen and Liver, Indocyanine Green Dye, Intraoperative BF56200
+     Add           Trunk BW52Z1Z
+Main Add         Other New Technology Monoclonal Antibody XW0
+Main Add         Other New Technology Therapeutic Substance XW0
+Main Add         OTL-101 use Hematopoietic Stem/Progenitor Cells, Genetically Modified
+
+
+Lttr             P
+Main Add         Peripheral Intravascular Lithotripsy (Peripheral IVL) see Fragmentation
+Main Add         Plasma, Convalescent (Nonautologous) XW1
+Main Add         Positive Blood Culture Fluorescence Hybridization for Organism Identification, Concentration and Susceptibility XXE5XN6
+
+
+Lttr             R
+Main Add         REGN-COV2 Monoclonal Antibody XW0
+Main Add         Remdesivir Anti-infective XW0
+Main Add         Renal nerve use Abdominal Sympathetic Nerve
+
+
+Lttr             S
+Main Add         Sarilumab XW0
+Main             Scapholunate ligament
+     Delete        use Hand Bursa and Ligament, Right
+     Delete        use Hand Bursa and Ligament, Left
+     Add           use Wrist Bursa and Ligament, Right
+     Add           use Wrist Bursa and Ligament, Left
+Main Add         Sentinel (tm) Cerebral Protection System (CPS) X2A5312
+Main Add         Shockwave Intravascular Lithotripsy (Shockwave IVL) see Fragmentation
+Main Add         Snapshot_NIR 8E02XDZ
+Main Add         Soliris(R) use Eculizumab
+Main             Spectroscopy
+     Delete        Intravascular 8E023DZ
+     Add           Intravascular Near Infrared 8E023DZ
+     Revise from   Near infrared 8E023DZ
+     Revise to     Near Infrared see Physiological Systems and Anatomical Regions 8E0
+Main Add         SpineJack(R) system use Synthetic Substitute, Mechanically Expandable (Paired) in New Technology
+Main Add         SPRAVATO(tm) use Esketamine Hydrochloride
+Main Revise from SPY PINPOINT fluorescence imaging system see Monitoring, Physiological Systems 4A1
+     Revise to   SPY PINPOINT fluorescence imaging system
+     Add           see Monitoring, Physiological Systems 4A1
+     Add           see Other Imaging, Hepatobiliary System and Pancreas BF5
+Main Add         SPY system intraoperative fluorescence cholangiography see Other Imaging, Hepatobiliary System and Pancreas BF5
+Main             Supplement
+                   Vertebra
+                     Lumbar 0QU0
+     Add               Mechanically Expandable (Paired) Synthetic Substitute XNU0356
+                     Thoracic 0PU4
+     Add               Mechanically Expandable (Paired) Synthetic Substitute XNU4356
+
+
+Lttr             T
+Main Add         TECENTRIQ(R) use Atezolizumab Antineoplastic
+Main Add         Thrombolysis, Ultrasound assisted see Fragmentation, Artery
+Main Add         Tocilizumab XW0
+Main             Transfusion
+     Add           Immunotherapy see New Technology, Anatomical Regions XW2
+                   Vein
+                     Central
+     Add               Hematopoietic Stem/Progenitor Cells (HSPC), Genetically Modified 3024
+                     Peripheral
+     Add               Hematopoietic Stem/Progenitor Cells (HSPC), Genetically Modified 3023
+Main             Transplantation
+     Add           Penis 0VYS0Z
+     Add           Scrotum 0VY50Z
+
+
+Lttr             V
+Main Add         V-Wave Interatrial Shunt System use Synthetic Substitute
+Main Add         Veklury use Remdesivir Anti-infective
+
+
+Lttr             W
+Main Add         Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+
+
+Lttr             X
+Main Add         XENLETA(tm) use Lefamulin Anti-infective
+
+
+Lttr             Z
+Main Revise from Zenith AAA Endovascular Graft
+     Revise to   Zenith AAA Endovascular Graft use Intraluminal Device
+     Delete        use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Delete        use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+     Delete        use Intraluminal Device
+Main Add         Zenith(R) Fenestrated AAA Endovascular Graft
+     Add           use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Add           use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+Main Add         ZERBAXA(R) use Ceftolozane/Tazobactam Anti-infective
+Main Add         ZULRESSO(tm) use Brexanolone

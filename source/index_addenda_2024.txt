@@ -1,0 +1,124 @@
+
+
+Lttr             A
+Main             Annuloplasty
+     Add           see Restriction, Heart and Great Vessels 02V
+Main Add         Aortic isthmus use Thoracic Aorta, Ascending/Arch
+Main             Assistance
+                   Respiratory
+                     24-96 Consecutive Hours
+     Delete            High Nasal Flow/Velocity 5A0945A
+     Add               High Flow/Velocity Cannula 5A0945A
+                     Greater than 96 Consecutive Hours
+     Delete            High Nasal Flow/Velocity 5A0955A
+     Add               High Flow/Velocity Cannula 5A0955A
+                     Less than 24 Consecutive Hours
+     Delete            High Nasal Flow/Velocity 5A0935A
+     Add               High Flow/Velocity Cannula 5A0935A
+
+
+Lttr             C
+Main Add         Columvi(tm) use Glofitamab Antineoplastic
+Main Add         Cryoanalgesia see Destruction, Peripheral Nervous System 015
+Main Add         CryoICE(R) cryo-ablation probe (Cryo2)
+     Add           see Destruction, Peripheral Nervous System 015
+     Add           see Destruction, Conduction Mechanism 0258
+Main Add         CryoICE(R) CryoSPHERE(R) cryoablation probe (CryoS, CryoS-L) see Destruction, Peripheral Nervous System 015
+
+
+Lttr             D
+Main             Dilation
+     Add           Nasopharynx 097N
+Main Delete      DynaClip(R) (Forte)
+     Delete        use Internal Fixation Device, Sustained Compression in 0RG
+     Delete        use Internal Fixation Device, Sustained Compression in 0SG
+Main Add         Dnase (Deoxyoribonuclease) use Other Substance
+Main Add         DynaClip(R) (Delta)(Forte)(Quattro)
+     Add           use Internal Fixation Device, Sustained Compression in 0RG
+     Add           use Internal Fixation Device, Sustained Compression in 0SG
+
+
+Lttr             E
+Main             Electroconvulsive Therapy
+     Delete        Bilateral-Multiple Seizure GZB3ZZZ
+     Delete        Unilateral-Multiple Seizure GZB1ZZZ
+Main Add         EPKINLY(tm) use Epcoritamab Monoclonal Antibody
+
+
+Lttr             G
+Main Revise from GammaTile(tm) use Radioactive Element, Cesium-131 Collagen Implant in 00H
+     Revise to   GammaTile(tm)
+     Add           use Radioactive Element, Cesium-131 Collagen Implant in 00H
+     Add           use Radioactive Element, Palladium-103 Collagen Implant in 00H
+
+
+Lttr             I
+Main Add         Interstitial Fluid Volume, Sub-Epidermal Moisture using Electrical Biocapacitance XX2KXP9
+Main             Introduction of substance in or on
+                   Pleural Cavity 3E0L
+     Add             Thrombolytic 3E0L317
+Main Revise from Irreversible Electroporation (IRE) see Destruction, Hepatobiliary System and Pancreas 0F5
+     Revise to   Irreversible Electroporation (IRE)
+     Add           see Destruction, Heart and Great Vessels 025
+     Add           see Destruction, Hepatobiliary System and Pancreas 0F5
+
+
+Lttr             J
+Main Add         Juxtaductal aorta use Thoracic Aorta, Ascending/Arch
+
+
+Lttr             M
+Main             Monitoring
+     Add           Interstitial Fluid Volume, Sub-Epidermal Moisture using Electrical Biocapacitance XX2KXP9
+
+
+Lttr             N
+Main             New Technology
+     Add           Interstitial Fluid Volume, Sub-Epidermal Moisture using Electrical Biocapacitance XX2KXP9
+     Add           Talquetamab Antineoplastic XW01329
+
+
+Lttr             O
+Main Add         Omentoplasty, pedicled see Transfer, Omentum 0DXU
+Main Add         Omisirge(R) use Omidubicel
+
+
+Lttr             P
+Main Add         Palladium-103 Collagen Implant use Radioactive Element, Palladium-103 Collagen Implant in 00H
+Main Add         Popliteal fossa
+     Add           use Knee Region, Right
+     Add           use Knee Region, Left
+Main Add         Provizio(R) SEM Scanner XX2KXP9
+Main Add         PulseSelect(tm) PFA System, for cardiac IRE (Irreversible Electroporation) 02583ZF
+
+
+Lttr             S
+Main Add         SPEVIGO(R) use Spesolimab Monoclonal Antibody
+
+
+Lttr             T
+Main Delete      Thrombolysis, Ultrasound assisted see Fragmentation, Artery
+Main Add         Talquetamab Antineoplastic XW01329
+Main Add         TALVEY(tm) use Talquetamab Antineoplastic
+Main Add         TECVAYLI(tm) use Teclistamab Antineoplastic
+Main Add         Thrombolysis
+     Add           Catheter-directed see Fragmentation
+     Add           Systemic see Introduction of substance in or on, Physiological Systems and Anatomical Regions 3E0
+     Add           Ultrasound assisted
+     Add             see Fragmentation, Artery
+     Add             see Fragmentation, Vein
+Main             Transfer
+     Add           Omentum 0DXU
+Main             Transplantation
+     Revise from   Bone marrow see Transfusion, Circulatory 302
+     Revise to     Bone marrow
+     Add             see Transfusion, Vein, Peripheral 30233G
+     Add             see Transfusion, Vein, Central 30243G
+
+
+Lttr             V
+Main Add         VOWST(tm) use SER-109
+
+
+Lttr             X
+Main Add         Xacduro(R) use Sulbactam-Durlobactam

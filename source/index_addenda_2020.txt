@@ -1,0 +1,553 @@
+
+
+Lttr             A
+Main Revise from Ablation see Destruction
+     Revise to   Ablation
+     Add           see Control bleeding in
+     Add           see Destruction
+Main Revise from Andexanet Alfa, Factor Xa Inhibitor Reversal Agent XW0
+     Revise to   Andexanet Alfa, Factor Xa Inhibitor Reversal Agent use Coagulation Factor Xa, Inactivated
+Main Add         Andexxa use Coagulation Factor Xa, Inactivated
+Main Add         Antibacterial Envelope (TYRX) (AIGISRx) use Anti-Infective Envelope
+Main Add         Apalutamide Antineoplastic XW0DXJ5
+Main Add         AZEDRA(R) use Iobenguane I-131 Antineoplastic
+
+
+Lttr             B
+Main Revise from Block, Nerve, anesthetic injection 3E0T3CZ
+     Revise to   Block, Nerve, anesthetic injection 3E0T3BZ
+Main             Brachytherapy
+     Add           Back
+     Add             Lower DW1LBB
+     Add             Upper DW1KBB
+     Add           Cranial Cavity DW10BB
+     Add           Extremity
+     Add             Lower DW1YBB
+     Add             Upper DW1XBB
+     Add           Gastrointestinal Tract DW1PBB
+     Add           Genitourinary Tract DW1RBB
+     Add           Respiratory Tract DW1QBB
+Main Add         Brachytherapy, CivaSheet(R)
+     Add           see Brachytherapy with qualifier Unidirectional Source
+     Add           see Insertion with device Radioactive Element
+Main Add         Breast procedures, skin only use Skin, Chest
+Main             Bypass
+                   Artery
+                     Radial
+     Revise from       Left 031C0
+     Revise to         Left 031C
+     Revise from       Right 031B0
+     Revise to         Right 031B
+                     Ulnar
+     Revise from       Left 031A0
+     Revise to         Left 031A
+     Revise from       Right 03190
+     Revise to         Right 0319
+     Add           Intestine
+     Add             Large 0D1E
+     Add             Small 0D18
+
+
+Lttr             C
+Main Delete      Cerebral Embolic Filtration, Dual Filter X2A5312
+Main Add         Caplacizumab XW0
+Main Add         Cerebral Embolic Filtration
+     Add           Dual Filter X2A5312
+     Add           Single Deflection Filter X2A6325
+Main Add         CivaSheet(R) use Radioactive Element
+Main Add         CivaSheet(R) Brachytherapy
+     Add           see Brachytherapy with qualifier Unidirectional Source
+     Add           see Insertion with device Radioactive Element
+Main Add         Coagulation Factor Xa, Inactivated XW0
+Main Add         Coagulation Factor Xa, (Recombinant) Inactivated use Coagulation Factor Xa, Inactivated
+Main Add         CONTEPO(tm) use Fosfomycin Anti-infective
+
+
+Lttr             D
+Main             Dilation
+                   Artery
+                     Anterior Tibial
+                       Left 047Q
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27Q385
+     Add                   Four or More X27Q3C5
+     Add                   Three X27Q3B5
+     Add                   Two X27Q395
+                       Right 047P
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27P385
+     Add                   Four or More X27P3C5
+     Add                   Three X27P3B5
+     Add                   Two X27P395
+                     Femoral
+                       Left 047L
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27J385
+     Add                   Four or More X27J3C5
+     Add                   Three X27J3B5
+     Add                   Two X27J395
+                       Right 047K
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27H385
+     Add                   Four or More X27H3C5
+     Add                   Three X27H3B5
+     Add                   Two X27H395
+                     Peroneal
+                       Left 047U
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27U385
+     Add                   Four or More X27U3C5
+     Add                   Three X27U3B5
+     Add                   Two X27U395
+                       Right 047T
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27T385
+     Add                   Four or More X27T3C5
+     Add                   Three X27T3B5
+     Add                   Two X27T395
+                     Popliteal
+     Add               Left Distal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27N385
+     Add                 Four or More X27N3C5
+     Add                 Three X27N3B5
+     Add                 Two X27N395
+     Add               Left Proximal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27L385
+     Add                 Four or More X27L3C5
+     Add                 Three X27L3B5
+     Add                 Two X27L395
+     Add               Right Distal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27M385
+     Add                 Four or More X27M3C5
+     Add                 Three X27M3B5
+     Add                 Two X27M395
+     Add               Right Proximal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27K385
+     Add                 Four or More X27K3C5
+     Add                 Three X27K3B5
+     Add                 Two X27K395
+                     Posterior Tibial
+                       Left 047S
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27S385
+     Add                   Four or More X27S3C5
+     Add                   Three X27S3B5
+     Add                   Two X27S395
+                       Right 047R
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27R385
+     Add                   Four or More X27R3C5
+     Add                   Three X27R3B5
+     Add                   Two X27R395
+Main Add         Dismembered pyeloplasty see Repair, Kidney Pelvis
+
+
+Lttr             E
+Main Add         ECMO, intraoperative see Performance, Circulatory 5A15A
+Main Add         Ellipsys(R) vascular access system
+     Add           Radial Artery, Left 031C3ZF
+     Add           Radial Artery, Right 031B3ZF
+     Add           Ulnar Artery, Left 031A3ZF
+     Add           Ulnar Artery, Right 03193ZF
+Main Add         Eluvia(tm) Drug-Eluting Vascular Stent System
+     Add           use Intraluminal Device, Sustained Release Drug-eluting in New Technology
+     Add           use Intraluminal Device, Sustained Release Drug-eluting, Two in New Technology
+     Add           use Intraluminal Device, Sustained Release Drug-eluting, Three in New Technology
+     Add           use Intraluminal Device, Sustained Release Drug-eluting, Four or More in New Technology
+Main Add         ELZONRIS(tm) use Tagraxofusp-erzs Antineoplastic
+Main Add         EndoAVF procedure
+     Add           Radial Artery, Left 031C3ZF
+     Add           Radial Artery, Right 031B3ZF
+     Add           Ulnar Artery, Left 031A3ZF
+     Add           Ulnar Artery, Right 03193ZF
+Main Add         Endovascular fistula creation
+     Add           Radial Artery, Left 031C3ZF
+     Add           Radial Artery, Right 031B3ZF
+     Add           Ulnar Artery, Left 031A3ZF
+     Add           Ulnar Artery, Right 03193ZF
+Main Add         Erdafitinib Antineoplastic XW0DXL5
+Main Add         ERLEADA(tm) use Apalutamide Antineoplastic
+Main             Extirpation
+     Add           Jaw
+     Add             Lower 0WC5
+     Add             Upper 0WC4
+Main             Extraction
+     Add           Breast
+     Add             Bilateral 0HDV0ZZ
+     Add             Left 0HDU0ZZ
+     Add             Right 0HDT0ZZ
+     Add             Supernumerary 0HDY0ZZ
+
+
+Lttr             F
+Main Revise from Factor Xa Inhibitor Reversal Agent, Andexanet Alfa use Andexanet Alfa, Factor Xa Inhibitor Reversal Agent
+     Revise to   Factor Xa Inhibitor Reversal Agent, Andexanet Alfa use Coagulation Factor Xa, Inactivated
+Main Add         FGS (fluorescence-guided surgery) see Fluorescence Guided Procedure
+Main Add         Flow Diverter embolization device use Intraluminal Device, Flow Diverter in 03V
+Main Add         Fluorescence Guided Procedure
+     Add           Extremity
+     Add             Lower 8E0Y
+     Add             Upper 8E0X
+     Add           Head and Neck Region 8E09
+     Add             Aminolevulinic Acid 8E090EM
+     Add             No Qualifier 8E090EZ
+     Add           Trunk Region 8E0W
+Main Add         Fluorescent Pyrazine, Kidney XT25XE5
+Main Add         Fosfomycin Anti-infective XW0
+Main Add         Fosfomycin injection use Fosfomycin Anti-infective
+
+
+Lttr             G
+Main Add         Gilteritinib Antineoplastic XW0DXV5
+
+
+Lttr             H
+Main Add         HIPEC (hyperthermic intraperitoneal chemotherapy) 3E0M30Y
+Main Add         Hyperthermic intraperitoneal chemotherapy (HIPEC) 3E0M30Y
+
+
+Lttr             I
+Main Add         IMI/REL use Imipenem-cilastatin-relebactam Anti-infective
+Main Add         Imipenem-cilastatin-relebactam Anti-infective XW0
+Main Add         Infection, Whole Blood Nucleic Acid-base Microbial Detection, Measurement XXE5XM5
+Main             Insertion of device in
+                   Artery
+     Add             Coronary
+     Add               Four or More Arteries 02H3
+     Add               One Artery 02H0
+     Add               Three Arteries 02H2
+     Add               Two Arteries 02H1
+Main Add         Iobenguane I-131 Antineoplastic XW0
+Main Add         Iobenguane I-131, High Specific Activity (HSA) use Iobenguane I-131 Antineoplastic
+Main             Irrigation
+     Revise from   Joint, Irrigating Substance 3E1U38Z
+     Revise to     Joint, Irrigating Substance 3E1U
+
+
+Lttr             J
+Main Add         Jakafi(R) use Ruxolitinib
+
+
+Lttr             K
+Main Add         Keystone Heart TriGuard 3(tm) CEPD (cerebral embolic protection device) X2A6325
+
+
+Lttr             M
+Main Add         Magnetic-guided radiofrequency endovascular fistula
+     Add           Radial Artery, Left 031C3ZF
+     Add           Radial Artery, Right 031B3ZF
+     Add           Ulnar Artery, Left 031A3ZF
+     Add           Ulnar Artery, Right 03193ZF
+Main             Measurement
+     Add           Infection, Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+Main Add         Meropenem-vaborbactam Anti-infective XW0
+Main             Monitoring
+     Add           Kidney, Fluorescent Pyrazine XT25XE5
+                   Lymphatic
+     Revise from     Flow 4A16
+     Revise to       Flow
+     Add               Indocyanine Green Dye 4A16
+     Add               No Qualifier 4A16
+
+
+Lttr             N
+Main             New Technology
+     Delete        Andexanet Alfa, Factor Xa Inhibitor Reversal Agent XW0
+     Delete        Cerebral Embolic Filtration, Dual Filter X2A5312
+     Add           Apalutamide Antineoplastic XW0DXJ5
+     Add           Caplacizumab XW0
+     Add           Cerebral Embolic Filtration
+     Add             Dual Filter X2A5312
+     Add             Single Deflection Filter X2A6325
+     Add           Coagulation Factor Xa, Inactivated XW0
+     Add           Dilation
+     Add             Anterior Tibial
+     Add               Left
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27Q385
+     Add                 Four or More X27Q3C5
+     Add                 Three X27Q3B5
+     Add                 Two X27Q395
+     Add               Right
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27P385
+     Add                 Four or More X27P3C5
+     Add                 Three X27P3B5
+     Add                 Two X27P395
+     Add             Femoral
+     Add               Left
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27J385
+     Add                 Four or More X27J3C5
+     Add                 Three X27J3B5
+     Add                 Two X27J395
+     Add               Right
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27H385
+     Add                 Four or More X27H3C5
+     Add                 Three X27H3B5
+     Add                 Two X27H395
+     Add             Peroneal
+     Add               Left
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27U385
+     Add                 Four or More X27U3C5
+     Add                 Three X27U3B5
+     Add                 Two X27U395
+     Add               Right
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27T385
+     Add                 Four or More X27T3C5
+     Add                 Three X27T3B5
+     Add                 Two X27T395
+     Add             Popliteal
+     Add               Left Distal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27N385
+     Add                 Four or More X27N3C5
+     Add                 Three X27N3B5
+     Add                 Two X27N395
+     Add               Left Proximal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27L385
+     Add                 Four or More X27L3C5
+     Add                 Three X27L3B5
+     Add                 Two X27L395
+     Add               Right Distal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27M385
+     Add                 Four or More X27M3C5
+     Add                 Three X27M3B5
+     Add                 Two X27M395
+     Add               Right Proximal
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27K385
+     Add                 Four or More X27K3C5
+     Add                 Three X27K3B5
+     Add                 Two X27K395
+     Add             Posterior Tibial
+     Add               Left
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27S385
+     Add                 Four or More X27S3C5
+     Add                 Three X27S3B5
+     Add                 Two X27S395
+     Add               Right
+     Add                 Sustained Release Drug-eluting Intraluminal Device X27R385
+     Add                 Four or More X27R3C5
+     Add                 Three X27R3B5
+     Add                 Two X27R395
+     Add           Erdafitinib Antineoplastic XW0DXL5
+     Add           Fosfomycin Anti-infective XW0
+     Add           Gilteritinib Antineoplastic XW0DXV5
+     Add           Imipenem-cilastatin-relebactam Anti-infective XW0
+     Add           Iobenguane I-131 Antineoplastic XW0
+     Add           Kidney, Fluorescent Pyrazine XT25XE5
+     Add           Measurement, Infection, Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+     Add           Meropenem-vaborbactam Anti-infective XW0
+     Add           Ruxolitinib XW0DXT5
+     Add           Tagraxofusp-erzs Antineoplastic XW0
+     Add           Venetoclax Antineoplastic XW0DXR5
+
+
+Lttr             P
+Main             Panniculectomy
+     Delete        see Excision, Abdominal Wall 0WBF
+     Add           see Excision, Subcutaneous Tissue and Fascia, Abdomen 0JB8
+Main             Performance
+                   Circulatory
+     Delete          Central Membrane 5A1522F
+     Delete          Peripheral Veno-arterial Membrane 5A1522G
+     Delete          Peripheral Veno-venous Membrane 5A1522H
+     Add             Continuous
+     Add               Central Membrane 5A1522F
+     Add               Peripheral Veno-arterial Membrane 5A1522G
+     Add               Peripheral Veno-venous Membrane 5A1522H
+     Add             Intraoperative
+     Add               Central Membrane 5A15A2F
+     Add               Peripheral Veno-arterial Membrane 5A15A2G
+     Add               Peripheral Veno-venous Membrane 5A15A2H
+Main Delete      Pipeline(tm) Embolization device (PED) use Intraluminal Device
+Main Add         Pipeline(tm) (Flex) embolization device use Intraluminal Device, Flow Diverter in 03V
+Main Add         PRECICE intramedullary limb lengthening system
+     Add           use Internal Fixation Device, Intramedullary Limb Lengthening in 0PH
+     Add           use Internal Fixation Device, Intramedullary Limb Lengthening in 0QH
+Main Add         Pyeloplasty, dismembered see Repair, Kidney Pelvis
+
+
+Lttr             R
+Main Delete      Reveal (DX)(XT) use Monitoring Device
+Main Add         RECELL(R) cell suspension autograft see Replacement, Skin and Breast 0HR
+Main Add         Reveal (LINQ)(DX)(XT) use Monitoring Device
+Main Add         Ruxolitinib XW0DXT5
+
+
+Lttr             S
+Main Add         S-ICD(tm) lead use Subcutaneous Defibrillator Lead in Subcutaneous Tissue and Fascia
+Main Add         SAVAL below-the-knee (BTK) drug-eluting stent system
+     Add           use Intraluminal Device, Sustained Release Drug-eluting in New Technology
+     Add           use Intraluminal Device, Sustained Release Drug-eluting, Two in New Technology
+     Add           use Intraluminal Device, Sustained Release Drug-eluting, Three in New Technology
+     Add           use Intraluminal Device, Sustained Release Drug-eluting, Four or More in New Technology
+Main Add         SPY PINPOINT fluorescence imaging system see Monitoring, Physiological Systems 4A1
+Main Add         Subcutaneous Defibrillator Lead
+     Add           Insertion of device in, Subcutaneous Tissue and Fascia, Chest 0JH6
+     Add           Removal of device from, Subcutaneous Tissue and Fascia, Trunk 0JPT
+     Add           Revision of device in, Subcutaneous Tissue and Fascia, Trunk 0JWT
+Main Add         Submandibular space use Subcutaneous Tissue and Fascia, Face
+Main             Supplement
+                   Artery
+     Add             Coronary
+     Add               Four or More Arteries 02U3
+     Add               One Artery 02U0
+     Add               Three Arteries 02U2
+     Add               Two Arteries 02U1
+     Add           Sinus
+     Add             Accessory 09UP
+     Add             Ethmoid
+     Add               Left 09UV
+     Add               Right 09UU
+     Add             Frontal
+     Add               Left 09UT
+     Add               Right 09US
+     Add             Mastoid
+     Add               Left 09UC
+     Add               Right 09UB
+     Add             Maxillary
+     Add               Left 09UR
+     Add               Right 09UQ
+     Add             Sphenoid
+     Add               Left 09UX
+     Add               Right 09UW
+Main Add         Surpass Streamline(tm) Flow Diverter use Intraluminal Device, Flow Diverter in 03V
+Main Add         Sustained Release Drug-eluting Intraluminal Device
+     Add           Dilation
+     Add             Anterior Tibial
+     Add               Left X27Q385
+     Add               Right X27P385
+     Add             Femoral
+     Add               Left X27J385
+     Add               Right X27H385
+     Add             Peroneal
+     Add               Left X27U385
+     Add               Right X27T385
+     Add             Popliteal
+     Add               Left Distal X27N385
+     Add               Left Proximal X27L385
+     Add               Right Distal X27M385
+     Add               Right Proximal X27K385
+     Add             Posterior Tibial
+     Add               Left X27S385
+     Add               Right X27R385
+     Add           Four or More
+     Add             Anterior Tibial
+     Add               Left X27Q3C5
+     Add               Right X27P3C5
+     Add             Femoral
+     Add               Left X27J3C5
+     Add               Right X27H3C5
+     Add             Peroneal
+     Add               Left X27U3C5
+     Add               Right X27T3C5
+     Add             Popliteal
+     Add               Left Distal X27N3C5
+     Add               Left Proximal X27L3C5
+     Add               Right Distal X27M3C5
+     Add               Right Proximal X27K3C5
+     Add             Posterior Tibial
+     Add               Left X27S3C5
+     Add               Right X27R3C5
+     Add           Three
+     Add             Anterior Tibial
+     Add               Left X27Q3B5
+     Add               Right X27P3B5
+     Add             Femoral
+     Add               Left X27J3B5
+     Add               Right X27H3B5
+     Add             Peroneal
+     Add               Left X27U3B5
+     Add               Right X27T3B5
+     Add             Popliteal
+     Add               Left Distal X27N3B5
+     Add               Left Proximal X27L3B5
+     Add               Right Distal X27M3B5
+     Add               Right Proximal X27K3B5
+     Add             Posterior Tibial
+     Add               Left X27S3B5
+     Add               Right X27R3B5
+     Add           Two
+     Add             Anterior Tibial
+     Add               Left X27Q395
+     Add               Right X27P395
+     Add             Femoral
+     Add               Left X27J395
+     Add               Right X27H395
+     Add             Peroneal
+     Add               Left X27U395
+     Add               Right X27T395
+     Add             Popliteal
+     Add               Left Distal X27N395
+     Add               Left Proximal X27L395
+     Add               Right Distal X27M395
+     Add               Right Proximal X27K395
+     Add             Posterior Tibial
+     Add               Left X27S395
+     Add               Right X27R395
+
+
+Lttr             T
+Main Add         Tagraxofusp-erzs Antineoplastic XW0
+Main Add         Tibioperoneal trunk
+     Add           use Popliteal Artery, Right
+     Add           use Popliteal Artery, Left
+Main Add         Transdermal Glomerular Filtration Rate (GFR) Measurement System XT25XE5
+Main             Transfusion
+     Delete        Artery
+     Delete          Central
+     Delete            Antihemophilic Factors 3026
+     Delete            Blood
+     Delete              Platelets 3026
+     Delete              Red Cells 3026
+     Delete                Frozen 3026
+     Delete              White Cells 3026
+     Delete              Whole 3026
+     Delete            Bone Marrow 3026
+     Delete            Factor IX 3026
+     Delete            Fibrinogen 3026
+     Delete            Globulin 3026
+     Delete            Plasma
+     Delete              Fresh 3026
+     Delete              Frozen 3026
+     Delete            Plasma Cryoprecipitate 3026
+     Delete            Serum Albumin 3026
+     Delete            Stem Cells
+     Delete              Cord Blood 3026
+     Delete              Hematopoietic 3026
+     Delete          Peripheral
+     Delete            Antihemophilic Factors 3025
+     Delete            Blood
+     Delete              Platelets 3025
+     Delete              Red Cells 3025
+     Delete                Frozen 3025
+     Delete              White Cells 3025
+     Delete              Whole 3025
+     Delete            Bone Marrow 3025
+     Delete            Factor IX 3025
+     Delete            Fibrinogen 3025
+     Delete            Globulin 3025
+     Delete            Plasma
+     Delete              Fresh 3025
+     Delete              Frozen 3025
+     Delete            Plasma Cryoprecipitate 3025
+     Delete            Serum Albumin 3025
+     Delete            Stem Cells
+     Delete              Cord Blood 3025
+     Delete              Hematopoietic 3025
+                   Vein
+                     Central
+                       Stem Cells
+     Add                 T-cell Depleted Hematopoietic 3024
+                     Peripheral
+                       Stem Cells
+     Add                 T-cell Depleted Hematopoietic 3023
+Main Add         TriGuard 3(tm) CEPD (cerebral embolic protection device) X2A6325
+Main Add         TYRX Antibacterial Envelope use Anti-Infective Envelope
+
+
+Lttr             V
+Main Add         Vabomere(tm) use Meropenem-vaborbactam Anti-infective
+Main Add         Venclexta(R) use Venetoclax Antineoplastic
+Main Add         Venetoclax Antineoplastic XW0DXR5
+
+
+Lttr             W
+Main Add         WavelinQ EndoAVF system
+     Add           Radial Artery, Left 031C3ZF
+     Add           Radial Artery, Right 031B3ZF
+     Add           Ulnar Artery, Left 031A3ZF
+     Add           Ulnar Artery, Right 03193ZF
+
+
+Lttr             X
+Main Add         XOSPATA(R) use Gilteritinib Antineoplastic

@@ -1,0 +1,709 @@
+
+
+Lttr             A
+Main Add         AFX(R) Endovascular AAA System use Intraluminal Device
+Main Add         Andexanet Alfa, Factor Xa Inhibitor Reversal Agent XW0
+Main             Angiocardiography
+     Delete        SPY see Fluoroscopy, Heart B21
+     Add           SPY system intravascular fluorescence see Monitoring, Physiological Systems 4A1
+Main Revise from Aortic arch use Thoracic Aorta
+     Revise to   Aortic arch use Thoracic Aorta, Ascending/Arch
+Main Revise from Aortic intercostal artery use Thoracic Aorta
+     Revise to   Aortic intercostal artery use Upper Artery
+Main             Aortoplasty
+     Delete        see Repair, Aorta, Thoracic 02QW
+     Delete        see Replacement, Aorta, Thoracic 02RW
+     Delete        see Supplement, Aorta, Thoracic 02UW
+     Add           see Repair, Aorta, Thoracic, Descending 02QW
+     Add           see Repair, Aorta, Thoracic, Ascending/Arch 02QX
+     Add           see Replacement, Aorta, Thoracic, Descending 02RW
+     Add           see Replacement, Aorta, Thoracic, Ascending/Arch 02RX
+     Add           see Supplement, Aorta, Thoracic, Descending 02UW
+     Add           see Supplement, Aorta, Thoracic, Ascending/Arch 02UX
+Main             Arterioscopy
+     Delete        02JY4ZZ
+     Delete        03JY4ZZ
+     Delete        04JY4ZZ
+     Add           see Inspection, Great Vessel 02JY
+     Add           see Inspection, Artery, Upper 03JY
+     Add           see Inspection, Artery, Lower 04JY
+Main Revise from Ascending aorta use Thoracic Aorta
+     Revise to   Ascending aorta use Thoracic Aorta, Ascending/Arch
+Main             Assessment
+     Add           intravascular perfusion, using indocyanine green (ICG) dye see Monitoring, Physiological Systems 4A1
+
+
+Lttr             B
+Main Add         Base of Tongue use Pharynx
+Main Revise from Bone marrow transplant see Transfusion
+     Revise to   Bone marrow transplant see Transfusion, Circulatory 302
+Main Revise from Bronchial artery use Thoracic Aorta
+     Revise to   Bronchial artery use Upper Artery
+Main Add         Bronchus Intermedius use Main Bronchus, Right
+Main             Bypass
+                   Aorta
+     Revise from     Thoracic 021W
+     Revise to       Thoracic
+     Add               Ascending/Arch 021X
+     Add               Descending 021W
+                   Artery
+                     Coronary
+     Delete            Four or More Sites 0213
+     Delete            One Site 0210
+     Delete            Three Sites 0212
+     Delete            Two Sites 0211
+     Add               Four or More Arteries 0213
+     Add               One Artery 0210
+     Add               Three Arteries 0212
+     Add               Two Arteries 0211
+     Add             Pulmonary
+     Add               Left 021R
+     Add               Right 021Q
+     Add             Pulmonary Trunk 021P
+
+
+Lttr             C
+Main Add         Ceramic on ceramic bearing surface use Synthetic Substitute, Ceramic in 0SR
+Main Add         Cerebral Embolic Filtration, Dual Filter X2A5312
+Main Revise from Conization, cervix see Excision, Uterus 0UB9
+     Revise to   Conization, cervix see Excision, Cervix 0UBC
+Main Delete      Control postprocedural bleeding in
+     Delete        Abdominal Wall 0W3F
+     Delete        Ankle Region
+     Delete          Left 0Y3L
+     Delete          Right 0Y3K
+     Delete        Arm
+     Delete          Lower
+     Delete            Left 0X3F
+     Delete            Right 0X3D
+     Delete          Upper
+     Delete            Left 0X39
+     Delete            Right 0X38
+     Delete        Axilla
+     Delete          Left 0X35
+     Delete          Right 0X34
+     Delete        Back
+     Delete          Lower 0W3L
+     Delete          Upper 0W3K
+     Delete        Buttock
+     Delete          Left 0Y31
+     Delete          Right 0Y30
+     Delete        Cavity, Cranial 0W31
+     Delete        Chest Wall 0W38
+     Delete        Elbow Region
+     Delete          Left 0X3C
+     Delete          Right 0X3B
+     Delete        Extremity
+     Delete          Lower
+     Delete            Left 0Y3B
+     Delete            Right 0Y39
+     Delete          Upper
+     Delete            Left 0X37
+     Delete            Right 0X36
+     Delete        Face 0W32
+     Delete        Femoral Region
+     Delete          Left 0Y38
+     Delete          Right 0Y37
+     Delete        Foot
+     Delete          Left 0Y3N
+     Delete          Right 0Y3M
+     Delete        Gastrointestinal Tract 0W3P
+     Delete        Genitourinary Tract 0W3R
+     Delete        Hand
+     Delete          Left 0X3K
+     Delete          Right 0X3J
+     Delete        Head 0W30
+     Delete        Inguinal Region
+     Delete          Left 0Y36
+     Delete          Right 0Y35
+     Delete        Jaw
+     Delete          Lower 0W35
+     Delete          Upper 0W34
+     Delete        Knee Region
+     Delete          Left 0Y3G
+     Delete          Right 0Y3F
+     Delete        Leg
+     Delete          Lower
+     Delete            Left 0Y3J
+     Delete            Right 0Y3H
+     Delete          Upper
+     Delete            Left 0Y3D
+     Delete            Right 0Y3C
+     Delete        Mediastinum 0W3C
+     Delete        Neck 0W36
+     Delete        Oral Cavity and Throat 0W33
+     Delete        Pelvic Cavity 0W3J
+     Delete        Pericardial Cavity 0W3D
+     Delete        Perineum
+     Delete          Female 0W3N
+     Delete          Male 0W3M
+     Delete        Peritoneal Cavity 0W3G
+     Delete        Pleural Cavity
+     Delete          Left 0W3B
+     Delete          Right 0W39
+     Delete        Respiratory Tract 0W3Q
+     Delete        Retroperitoneum 0W3H
+     Delete        Shoulder Region
+     Delete          Left 0X33
+     Delete          Right 0X32
+     Delete        Wrist Region
+     Delete          Left 0X3H
+     Delete          Right 0X3G
+Main Add         Control bleeding in
+     Add           Abdominal Wall 0W3F
+     Add           Ankle Region
+     Add             Left 0Y3L
+     Add             Right 0Y3K
+     Add           Arm
+     Add             Lower
+     Add               Left 0X3F
+     Add               Right 0X3D
+     Add             Upper
+     Add               Left 0X39
+     Add               Right 0X38
+     Add           Axilla
+     Add             Left 0X35
+     Add             Right 0X34
+     Add           Back
+     Add             Lower 0W3L
+     Add             Upper 0W3K
+     Add           Buttock
+     Add             Left 0Y31
+     Add             Right 0Y30
+     Add           Cavity, Cranial 0W31
+     Add           Chest Wall 0W38
+     Add           Elbow Region
+     Add             Left 0X3C
+     Add             Right 0X3B
+     Add           Extremity
+     Add             Lower
+     Add               Left 0Y3B
+     Add               Right 0Y39
+     Add             Upper
+     Add               Left 0X37
+     Add               Right 0X36
+     Add           Face 0W32
+     Add           Femoral Region
+     Add             Left 0Y38
+     Add             Right 0Y37
+     Add           Foot
+     Add             Left 0Y3N
+     Add             Right 0Y3M
+     Add           Gastrointestinal Tract 0W3P
+     Add           Genitourinary Tract 0W3R
+     Add           Hand
+     Add             Left 0X3K
+     Add             Right 0X3J
+     Add           Head 0W30
+     Add           Inguinal Region
+     Add             Left 0Y36
+     Add             Right 0Y35
+     Add           Jaw
+     Add             Lower 0W35
+     Add             Upper 0W34
+     Add           Knee Region
+     Add             Left 0Y3G
+     Add             Right 0Y3F
+     Add           Leg
+     Add             Lower
+     Add               Left 0Y3J
+     Add               Right 0Y3H
+     Add             Upper
+     Add               Left 0Y3D
+     Add               Right 0Y3C
+     Add           Mediastinum 0W3C
+     Add           Neck 0W36
+     Add           Oral Cavity and Throat 0W33
+     Add           Pelvic Cavity 0W3J
+     Add           Pericardial Cavity 0W3D
+     Add           Perineum
+     Add             Female 0W3N
+     Add             Male 0W3M
+     Add           Peritoneal Cavity 0W3G
+     Add           Pleural Cavity
+     Add             Left 0W3B
+     Add             Right 0W39
+     Add           Respiratory Tract 0W3Q
+     Add           Retroperitoneum 0W3H
+     Add           Shoulder Region
+     Add             Left 0X33
+     Add             Right 0X32
+     Add           Wrist Region
+     Add             Left 0X3H
+     Add             Right 0X3G
+Main Add         Cook Biodesign(R) Fistula Plug(s) use Nonautologous Tissue Substitute
+Main Add         Cook Biodesign(R) Hernia Graft(s) use Nonautologous Tissue Substitute
+Main Add         Cook Biodesign(R) Layered Graft(s) use Nonautologous Tissue Substitute
+Main Add         Cook Zenapro(tm) Layered Graft(s) use Nonautologous Tissue Substitute
+Main Add         Cook Zenith AAA Endovascular Graft
+     Add           use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Add           use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+     Add           use Intraluminal Device
+Main             Creation
+     Delete        Female 0W4N0
+     Delete        Male 0W4M0
+     Add           Perineum
+     Add             Female 0W4N0
+     Add             Male 0W4M0
+     Add           Valve
+     Add             Aortic 024F0
+     Add             Mitral 024G0
+     Add             Tricuspid 024J0
+
+
+Lttr             D
+Main Add         Defibrotide Sodium Anticoagulant XW0
+Main Add         Defitelio use Defibrotide Sodium Anticoagulant
+Main             Destruction
+                   Aorta
+     Revise from     Thoracic 025W
+     Revise to       Thoracic
+     Add               Ascending/Arch 025X
+     Add               Descending 025W
+Main             Dilation
+                   Aorta
+     Revise from     Thoracic 027W
+     Revise to       Thoracic
+     Add               Ascending/Arch 027X
+     Add               Descending 027W
+                   Artery
+                     Coronary
+     Delete            Four or More Sites 0273
+     Delete            One Site 0270
+     Delete            Three Sites 0272
+     Delete            Two Sites 0271
+     Add               Four or More Arteries 0273
+     Add               One Artery 0270
+     Add               Three Arteries 0272
+     Add               Two Arteries 0271
+
+
+Lttr             E
+Main Delete      EGD (esophagogastroduodenscopy) 0DJ08ZZ
+Main Add         EDWARDS INTUITY Elite valve system use Zooplastic Tissue, Rapid Deployment Technique in New Technology
+Main Add         EGD (esophagogastroduodenoscopy) 0DJ08ZZ
+Main Add         Endologix AFX(R) Endovascular AAA System use Intraluminal Device
+Main Add         Endurant(R) II AAA stent graft system use Intraluminal Device
+Main Revise from Esophageal artery use Thoracic Aorta
+     Revise to   Esophageal artery use Upper Artery
+Main Delete      Esophagogastroduodenscopy (EGD) 0DJ08ZZ
+Main Add         Esophagogastroduodenoscopy (EGD) 0DJ08ZZ
+Main             Excision
+                   Aorta
+     Revise from     Thoracic 02BW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02BX
+     Add               Descending 02BW
+Main Add         EXCLUDER(R) AAA Endoprosthesis
+     Add           use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Add           use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+     Add           use Intraluminal Device
+Main Add         EXCLUDER(R) IBE Endoprosthesis use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+Main             Extirpation
+                   Aorta
+     Revise from     Thoracic 02CW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02CX
+     Add               Descending 02CW
+                   Artery
+                     Coronary
+     Delete            Four or More Sites 02C3
+     Delete            One Site 02C0
+     Delete            Three Sites 02C2
+     Delete            Two Sites 02C1
+     Add               Four or More Arteries 02C3
+     Add               One Artery 02C0
+     Add               Three Arteries 02C2
+     Add               Two Arteries 02C1
+
+
+Lttr             F
+Main Add         Factor Xa Inhibitor Reversal Agent, Andexanet Alfa use Andexanet Alfa, Factor Xa Inhibitor Reversal Agent
+Main             Fasciotomy
+     Add           see Release
+Main Add         Filum terminale use Spinal Meninges
+Main             Fusion
+                   Cervical Vertebral 0RG1
+                     2 or more 0RG2
+     Add               Interbody Fusion Device, Nanotextured Surface XRG2092
+     Add             Interbody Fusion Device, Nanotextured Surface XRG1092
+                   Cervicothoracic Vertebral 0RG4
+     Add             Interbody Fusion Device, Nanotextured Surface XRG4092
+                   Lumbar Vertebral 0SG0
+                     2 or more 0SG1
+     Add               Interbody Fusion Device, Nanotextured Surface XRGC092
+     Add             Interbody Fusion Device, Nanotextured Surface XRGB092
+                   Lumbosacral 0SG3
+     Add             Interbody Fusion Device, Nanotextured Surface XRGD092
+                   Occipital-cervical 0RG0
+     Add             Interbody Fusion Device, Nanotextured Surface XRG0092
+                   Thoracic Vertebral 0RG6
+                     2 to 7 0RG7
+     Add               Interbody Fusion Device, Nanotextured Surface XRG7092
+                     8 or more 0RG8
+     Add               Interbody Fusion Device, Nanotextured Surface XRG8092
+     Add             Interbody Fusion Device, Nanotextured Surface XRG6092
+                   Thoracolumbar Vertebral 0RGA
+     Add             Interbody Fusion Device, Nanotextured Surface XRGA092
+
+
+Lttr             G
+Main Add         GORE EXCLUDER(R) AAA Endoprosthesis
+     Add           use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Add           use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+     Add           use Intraluminal Device
+Main Add         GORE EXCLUDER(R) IBE Endoprosthesis use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+Main Add         GORE TAG(R) Thoracic Endoprosthesis use Intraluminal Device
+
+
+Lttr             H
+Main Add         Hematopoietic cell transplant (HCT) see Transfusion, Circulatory 302
+
+
+Lttr             I
+Main             Insertion of device in
+                   Aorta
+     Revise from     Thoracic 02HW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02HX
+     Add               Descending 02HW
+Main Add         Interbody Fusion Device, Nanotextured Surface
+     Add           Cervical Vertebral XRG1092
+     Add             2 or more XRG2092
+     Add           Cervicothoracic Vertebral XRG4092
+     Add           Lumbar Vertebral XRGB092
+     Add             2 or more XRGC092
+     Add           Lumbosacral XRGD092
+     Add           Occipital-cervical XRG0092
+     Add           Thoracic Vertebral XRG6092
+     Add             2 to 7 XRG7092
+     Add             8 or more XRG8092
+     Add           Thoracolumbar Vertebral XRGA092
+Main Add         Intermediate bronchus use Main Bronchus, Right
+Main Add         Internal carotid artery, intracranial portion use Intracranial Artery
+Main Add         Intravascular fluorescence angiography (IFA) see Monitoring, Physiological Systems 4A1
+Main             Introduction of substance in or on
+     Revise from   Brain 3E0Q3GC
+     Revise to     Brain 3E0Q
+     Revise from     Analgesics 3E0Q3NZ
+     Revise to       Analgesics 3E0Q
+     Revise from     Anesthetic, Local 3E0Q3BZ
+     Revise to       Anesthetic, Local 3E0Q
+     Revise from     Anti-infective 3E0Q32
+     Revise to       Anti-infective 3E0Q
+     Revise from     Anti-inflammatory 3E0Q33Z
+     Revise to       Anti-inflammatory 3E0Q
+     Revise from     Destructive Agent 3E0Q3TZ
+     Revise to       Destructive Agent 3E0Q
+     Revise from     Diagnostic Substance, Other 3E0Q3KZ
+     Revise to       Diagnostic Substance, Other 3E0Q
+     Revise from     Electrolytic Substance 3E0Q37Z
+     Revise to       Electrolytic Substance 3E0Q
+     Revise from     Hypnotics 3E0Q3NZ
+     Revise to       Hypnotics 3E0Q
+     Revise from     Nutritional Substance 3E0Q36Z
+     Revise to       Nutritional Substance 3E0Q
+     Revise from     Radioactive Substance 3E0Q3HZ
+     Revise to       Radioactive Substance 3E0Q
+     Revise from     Sedatives 3E0Q3NZ
+     Revise to       Sedatives 3E0Q
+     Revise from     Water Balance Substance 3E0Q37Z
+     Revise to       Water Balance Substance 3E0Q
+     Revise from   Cranial Cavity 3E0Q3GC
+     Revise to     Cranial Cavity 3E0Q
+     Revise from     Analgesics 3E0Q3NZ
+     Revise to       Analgesics 3E0Q
+     Revise from     Anesthetic, Local 3E0Q3BZ
+     Revise to       Anesthetic, Local 3E0Q
+     Revise from     Anti-infective 3E0Q32
+     Revise to       Anti-infective 3E0Q
+     Revise from     Anti-inflammatory 3E0Q33Z
+     Revise to       Anti-inflammatory 3E0Q
+     Revise from     Destructive Agent 3E0Q3TZ
+     Revise to       Destructive Agent 3E0Q
+     Revise from     Diagnostic Substance, Other 3E0Q3KZ
+     Revise to       Diagnostic Substance, Other 3E0Q
+     Revise from     Electrolytic Substance 3E0Q37Z
+     Revise to       Electrolytic Substance 3E0Q
+     Revise from     Hypnotics 3E0Q3NZ
+     Revise to       Hypnotics 3E0Q
+     Revise from     Nutritional Substance 3E0Q36Z
+     Revise to       Nutritional Substance 3E0Q
+     Revise from     Radioactive Substance 3E0Q3HZ
+     Revise to       Radioactive Substance 3E0Q
+     Revise from     Sedatives 3E0Q3NZ
+     Revise to       Sedatives 3E0Q
+     Revise from     Water Balance Substance 3E0Q37Z
+     Revise to       Water Balance Substance 3E0Q
+Main Add         INTUITY Elite valve system, EDWARDS use Zooplastic Tissue, Rapid Deployment Technique in New Technology
+
+
+Lttr             L
+Main             Laminectomy
+     Add           see Release, Central Nervous System 00N
+     Add           see Release, Peripheral Nervous System 01N
+Main Revise from Levator ani muscle
+     Revise to   Levator ani muscle use Perineum Muscle
+     Delete        use Trunk Muscle, Right
+     Delete        use Trunk Muscle, Left
+
+
+Lttr             M
+Main Add         MAGEC(R) Spinal Bracing and Distraction System use Magnetically Controlled Growth Rod(s) in New Technology
+Main Add         Magnetically Controlled Growth Rod(s)
+     Add           Cervical XNS3
+     Add           Lumbar XNS0
+     Add           Thoracic XNS4
+Main Add         Medtronic Endurant(R) II AAA stent graft system use Intraluminal Device
+Main Revise from Meniscectomy, knee see Excision, Lower Joints 0SB
+     Revise to   Meniscectomy, knee
+     Add           see Excision, Joint, Knee, Right 0SBC
+     Add           see Excision, Joint, Knee, Left 0SBD
+Main Add         Metal on metal bearing surface use Synthetic Substitute, Metal in 0SR
+Main Add         MIRODERM(tm) Biologic Wound Matrix use Skin Substitute, Porcine Liver Derived in New Technology
+Main             Monitoring
+                   Cardiac
+     Add             Vascular Perfusion, Indocyanine Green Dye 4A12XSH
+                   Gastrointestinal
+     Add             Vascular Perfusion, Indocyanine Green Dye 4A1BXSH
+     Add           Skin and Breast, Vascular Perfusion, Indocyanine Green Dye 4A1GXSH
+
+
+Lttr             N
+Main Add         nanoLOCK(tm) interbody fusion device use Interbody Fusion Device, Nanotextured Surface in New Technology
+Main             Neurostimulator Lead
+                   Insertion of device in
+     Add             Vein
+     Add               Azygos 05H0
+     Add               Innominate
+     Add                 Left 05H4
+     Add                 Right 05H3
+                   Removal of device from
+     Add             Vein
+     Add               Azygos 05P0
+     Add               Innominate
+     Add                 Left 05P4
+     Add                 Right 05P3
+                   Revision of device in
+     Add             Vein
+     Add               Azygos 05W0
+     Add               Innominate
+     Add                 Left 05W4
+     Add                 Right 05W3
+Main             New Technology
+     Add           Andexanet Alfa, Factor Xa Inhibitor Reversal Agent XW0
+     Add           Cerebral Embolic Filtration, Dual Filter X2A5312
+     Add           Defibrotide Sodium Anticoagulant XW0
+     Add           Fusion
+     Add             Cervical Vertebral
+     Add               2 or more, Interbody Fusion Device, Nanotextured Surface XRG2092
+     Add               Interbody Fusion Device, Nanotextured Surface XRG1092
+     Add             Cervicothoracic Vertebral, Interbody Fusion Device, Nanotextured Surface XRG4092
+     Add             Lumbar Vertebral
+     Add               2 or more, Interbody Fusion Device, Nanotextured Surface XRGC092
+     Add               Interbody Fusion Device, Nanotextured Surface XRGB092
+     Add             Lumbosacral, Interbody Fusion Device, Nanotextured Surface XRGD092
+     Add             Occipital-cervical, Interbody Fusion Device, Nanotextured Surface XRG0092
+     Add             Thoracic Vertebral
+     Add               2 to 7, Interbody Fusion Device, Nanotextured Surface XRG7092
+     Add               8 or more, Interbody Fusion Device, Nanotextured Surface XRG8092
+     Add               Interbody Fusion Device, Nanotextured Surface XRG6092
+     Add             Thoracolumbar Vertebral, Interbody Fusion Device, Nanotextured Surface XRGA092
+     Add           Replacement
+     Add             Skin Substitute, Porcine Liver Derived XHRPXL2
+     Add             Zooplastic Tissue, Rapid Deployment Technique X2RF
+     Add           Reposition
+     Add             Cervical, Magnetically Controlled Growth Rod(s) XNS3
+     Add             Lumbar, Magnetically Controlled Growth Rod(s) XNS0
+     Add             Thoracic, Magnetically Controlled Growth Rod(s) XNS4
+     Add           Uridine Triacetate XW0DX82
+
+
+Lttr             O
+Main             Occlusion
+     Add           Valve, Pulmonary 02LH
+Main Revise from Ophthalmic artery
+     Revise to   Ophthalmic artery use Intracranial Artery
+     Delete        use Internal Carotid Artery, Right
+     Delete        use Internal Carotid Artery, Left
+Main Delete      Ossicular chain
+     Delete        use Auditory Ossicle, Right
+     Delete        use Auditory Ossicle, Left
+
+
+Lttr             P
+Main             Pacemaker
+     Add           Intracardiac
+     Add             Insertion of device in
+     Add               Atrium
+     Add                 Left 02H7
+     Add                 Right 02H6
+     Add               Vein, Coronary 02H4
+     Add               Ventricle
+     Add                 Left 02HL
+     Add                 Right 02HK
+     Add             Removal of device from, Heart 02PA
+     Add             Revision of device in, Heart 02WA
+Main Add         Perceval sutureless valve use Zooplastic Tissue, Rapid Deployment Technique in New Technology
+Main Add         Perfusion, donor organ
+     Add           Heart 6AB50BZ
+     Add           Kidney(s) 6ABT0BZ
+     Add           Liver 6ABF0BZ
+     Add           Lung(s) 6ABB0BZ
+
+
+Lttr             R
+Main             Release
+                   Aorta
+     Revise from     Thoracic 02NW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02NX
+     Add               Descending 02NW
+Main             Removal of device from
+                   Joint
+                     Hip
+                       Left 0SPB
+     Add                 Acetabular Surface 0SPE
+     Add                 Femoral Surface 0SPS
+                       Right 0SP9
+     Add                 Acetabular Surface 0SPA
+     Add                 Femoral Surface 0SPR
+                     Knee
+                       Left 0SPD
+     Add                 Femoral Surface 0SPU
+     Add                 Tibial Surface 0SPW
+                       Right 0SPC
+     Add                 Femoral Surface 0SPT
+     Add                 Tibial Surface 0SPV
+                   Vein
+     Add             Azygos 05P0
+     Add             Innominate
+     Add               Left 05P4
+     Add               Right 05P3
+Main             Reopening, operative site
+     Revise from   Control of bleeding see Control postprocedural bleeding in
+     Revise to     Control of bleeding see Control bleeding in
+Main             Repair
+                   Aorta
+     Revise from     Thoracic 02QW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02QX
+     Add               Descending 02QW
+                   Artery
+                     Coronary
+     Delete            Four or More Sites 02Q3
+     Delete            One Site 02Q0
+     Delete            Three Sites 02Q2
+     Delete            Two Sites 02Q1
+     Add               Four or More Arteries 02Q3
+     Add               One Artery 02Q0
+     Add               Three Arteries 02Q2
+     Add               Two Arteries 02Q1
+Main             Replacement
+                   Aorta
+     Revise from     Thoracic 02RW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02RX
+     Add               Descending 02RW
+     Add           Skin Substitute, Porcine Liver Derived XHRPXL2
+     Add           Zooplastic Tissue, Rapid Deployment Technique X2RF
+Main             Reposition
+                   Aorta
+     Revise from     Thoracic 02SW0ZZ
+     Revise to       Thoracic
+     Add               Ascending/Arch 02SX0ZZ
+     Add               Descending 02SW0ZZ
+                   Artery
+     Add             Coronary
+     Add               One Artery 02S00ZZ
+     Add               Two Arteries 02S10ZZ
+                   Vertebra
+                     Cervical 0PS3
+     Add               Magnetically Controlled Growth Rod(s) XNS3
+                     Lumbar 0QS0
+     Add               Magnetically Controlled Growth Rod(s) XNS0
+                     Thoracic 0PS4
+     Add               Magnetically Controlled Growth Rod(s) XNS4
+Main             Restriction
+                   Aorta
+                     Abdominal 04V0
+     Add               Intraluminal Device, Branched or Fenestrated 04V0
+     Revise from     Thoracic 02VW
+     Revise to       Thoracic
+     Add               Ascending/Arch, Intraluminal Device, Branched or Fenestrated 02VX
+     Add               Descending, Intraluminal Device, Branched or Fenestrated 02VW
+                   Artery
+                     Common Iliac
+     Delete            Left 04VD
+     Delete            Right 04VC
+     Add               Left, Intraluminal Device, Branched or Fenestrated 04VD
+     Add               Right, Intraluminal Device, Branched or Fenestrated 04VC
+Main             Revision of device in
+                   Joint
+                     Hip
+                       Left 0SWB
+     Add                 Acetabular Surface 0SWE
+     Add                 Femoral Surface 0SWS
+                       Right 0SW9
+     Add                 Acetabular Surface 0SWA
+     Add                 Femoral Surface 0SWR
+                     Knee
+                       Left 0SWD
+     Add                 Femoral Surface 0SWU
+     Add                 Tibial Surface 0SWW
+                       Right 0SWC
+     Add                 Femoral Surface 0SWT
+     Add                 Tibial Surface 0SWV
+                   Vein
+     Add             Azygos 05W0
+     Add             Innominate
+     Add               Left 05W4
+     Add               Right 05W3
+
+
+Lttr             S
+Main Add         Skin Substitute, Porcine Liver Derived, Replacement XHRPXL2
+Main Add         Spinal growth rods, magnetically controlled use Magnetically Controlled Growth Rod(s) in New Technology
+Main Add         SPY system intravascular fluorescence angiography see Monitoring, Physiological Systems 4A1
+Main Add         Stem cell transplant see Transfusion, Circulatory 302
+Main Revise from Subcostal artery use Thoracic Aorta
+     Revise to   Subcostal artery use Upper Artery
+Main             Supplement
+                   Aorta
+     Revise from     Thoracic 02UW
+     Revise to       Thoracic
+     Add               Ascending/Arch 02UX
+     Add               Descending 02UW
+Main Add         Sutureless valve, Perceval use Zooplastic Tissue, Rapid Deployment Technique in New Technology
+
+
+Lttr             T
+Main Add         Tongue, base of use Pharynx
+Main Add         Total Anomalous Pulmonary Venous Return (TAPVR) repair
+     Add           see Bypass, Atrium, Left 0217
+     Add           see Bypass, Vena Cava, Superior 021V
+Main Add         Transplant see Transplantation
+Main             Transplantation
+     Add           Bone marrow see Transfusion, Circulatory 302
+     Add           Face 0WY20Z
+     Add           Hand
+     Add             Left 0XYK0Z
+     Add             Right 0XYJ0Z
+     Add           Hematopoietic cell see Transfusion, Circulatory 302
+     Add           Stem cell see Transfusion, Circulatory 302
+
+
+Lttr             U
+Main Add         Uridine Triacetate XW0DX82
+
+
+Lttr             V
+Main Add         Vistogard(R) use Uridine Triacetate
+
+
+Lttr             Z
+Main Add         Zenith AAA Endovascular Graft
+     Add           use Intraluminal Device, Branched or Fenestrated, One or Two Arteries in 04V
+     Add           use Intraluminal Device, Branched or Fenestrated, Three or More Arteries in 04V
+     Add           use Intraluminal Device
+Main Add         Zooplastic Tissue, Rapid Deployment Technique, Replacement X2RF

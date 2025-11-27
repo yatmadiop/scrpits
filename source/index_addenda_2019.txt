@@ -1,0 +1,221 @@
+
+
+Lttr             A
+Main Revise from Abdominohysterectomy
+     Revise to   Abdominohysterectomy see Resection, Uterus 0UT9
+     Delete        see Resection, Uterus 0UT9
+     Delete        see Resection, Cervix 0UTC
+Main Add         Angiotensin II use Synthetic Human Angiotensin II
+Main Add         Aquablation therapy, prostate XV508A4
+Main Add         Arthroplasty, radial head
+     Add           see Replacement, Radius, Right 0PRH
+     Add           see Replacement, Radius, Left 0PRJ
+Main Add         Articulating Spacer (Antibiotic) use Articulating Spacer in Lower Joints
+Main             Aspiration, fine needle
+     Revise from   fluid or gas see Drainage
+     Revise to     Fluid or gas see Drainage
+     Delete        tissue see Excision
+     Add           Tissue biopsy
+     Add             see Extraction
+     Add             see Excision
+Main             Assessment
+     Revise from   intravascular perfusion, using indocyanine green (ICG) dye see Monitoring, Physiological Systems 4A1
+     Revise to     Intravascular perfusion, using indocyanine green (ICG) dye see Monitoring, Physiological Systems 4A1
+
+
+Lttr             B
+Main             Banding, laparoscopic (adjustable) gastric
+     Delete        Adjustment/revision 0DW64CZ
+     Add           Surgical correction see Revision of device in, Stomach 0DW6
+Main Delete      Bililite therapy see Ultraviolet Light Therapy, Skin 6A80
+Main Add         Bili light therapy see Phototherapy, Skin 6A60
+Main             Biopsy
+     Delete        Bone Marrow see Extraction with qualifier Diagnostic
+     Add           see Extraction with qualifier Diagnostic
+Main             Bypass
+                   Artery
+     Add             Anterior Tibial
+     Add               Left 041Q
+     Add               Right 041P
+     Add             Posterior Tibial
+     Add               Left 041S
+     Add               Right 041R
+
+
+Lttr             C
+Main Add         Control, Epistaxis see Control bleeding in, Nasal Mucosa and Soft Tissue 093K
+Main             Control bleeding in
+     Add           Nasal Mucosa and Soft Tissue 093K
+Main Revise from Costotransverse ligament
+     Revise to   Costotransverse ligament use Rib(s) Bursa and Ligament
+     Delete        use Sternum Bursa and Ligament
+     Delete        use Rib(s) Bursa and Ligament
+Main Revise from Costoxiphoid ligament
+     Revise to   Costoxiphoid ligament use Sternum Bursa and Ligament
+     Delete        use Sternum Bursa and Ligament
+     Delete        use Rib(s) Bursa and Ligament
+
+
+Lttr             D
+Main             Destruction
+                   Prostate 0V50
+     Add             Robotic Waterjet Ablation XV508A4
+Main Delete      Drotrecogin alfa see Introduction of Recombinant Human-activated Protein C
+Main Add         DownStream(R) System
+     Add           5A0512C
+     Add           5A0522C
+Main Add         Drotrecogin alfa, infusion see Introduction of Recombinant Human-activated Protein C
+
+
+Lttr             E
+Main             Extraction
+     Add           Ampulla of Vater 0FDC
+     Add           Duct
+     Add             Common Bile 0FD9
+     Add             Cystic 0FD8
+     Add             Hepatic
+     Add               Common 0FD7
+     Add               Left 0FD6
+     Add               Right 0FD5
+     Add             Pancreatic 0FDD
+     Add               Accessory 0FDF
+     Add           Gallbladder 0FD4
+     Add           Liver 0FD0
+     Add             Left Lobe 0FD2
+     Add             Right Lobe 0FD1
+     Add           Pancreas 0FDG
+                   Products of Conception
+     Delete          Classical 10D00Z0
+     Delete          Low Cervical 10D00Z1
+     Add             High 10D00Z0
+     Add             Low 10D00Z1
+
+
+Lttr             F
+Main             Fine needle aspiration
+     Revise from   fluid or gas see Drainage
+     Revise to     Fluid or gas see Drainage
+     Delete        tissue see Excision
+     Add           Tissue biopsy
+     Add             see Extraction
+     Add             see Excision
+
+
+Lttr             G
+Main Add         GIAPREZA(tm) use Synthetic Human Angiotensin II
+
+
+Lttr             H
+Main             Herniorrhaphy
+     Revise from   with synthetic substitute
+     Revise to     With synthetic substitute
+Main Add         Human angiotensin II, synthetic use Synthetic Human Angiotensin II
+Main             Hysterectomy
+     Revise from   supracervical see Resection, Uterus 0UT9
+     Revise to     Supracervical see Resection, Uterus 0UT9
+     Revise from   total see Resection, Uterus 0UT9
+     Revise to     Total see Resection, Uterus 0UT9
+
+
+Lttr             I
+Main Delete      Interspinous ligament
+     Delete        use Head and Neck Bursa and Ligament
+     Delete        use Upper Spine Bursa and Ligament
+     Delete        use Lower Spine Bursa and Ligament
+Main Delete      Intertransverse ligament
+     Delete        use Upper Spine Bursa and Ligament
+     Delete        use Lower Spine Bursa and Ligament
+Main Add         Interspinous ligament, cervical use Head and Neck Bursa and Ligament
+Main Add         Interspinous ligament, lumbar use Lower Spine Bursa and Ligament
+Main Add         Interspinous ligament, thoracic use Upper Spine Bursa and Ligament
+Main Add         Intertransverse ligament, cervical use Head and Neck Bursa and Ligament
+Main Add         Intertransverse ligament, lumbar use Lower Spine Bursa and Ligament
+Main Add         Intertransverse ligament, thoracic use Upper Spine Bursa and Ligament
+Main Add         IRE (Irreversible Electroporation) see Destruction, Hepatobiliary System and Pancreas 0F5
+Main Add         Irreversible Electroporation (IRE) see Destruction, Hepatobiliary System and Pancreas 0F5
+
+
+Lttr             K
+Main Add         KYMRIAH use Engineered Autologous Chimeric Antigen Receptor T-cell Immunotherapy
+
+
+Lttr             L
+Main             LAGB (laparoscopic adjustable gastric banding)
+     Delete        Adjustment/revision 0DW64CZ
+     Add           Surgical correction see Revision of device in, Stomach 0DW6
+Main             Lavage
+     Revise from   bronchial alveolar, diagnostic see Drainage, Respiratory System 0B9
+     Revise to     Bronchial alveolar, diagnostic see Drainage, Respiratory System 0B9
+Main Delete      Ligamentum flavum
+     Delete        use Upper Spine Bursa and Ligament
+     Delete        use Lower Spine Bursa and Ligament
+Main Add         Ligamentum flavum, cervical use Head and Neck Bursa and Ligament
+Main Add         Ligamentum flavum, lumbar use Lower Spine Bursa and Ligament
+Main Add         Ligamentum flavum, thoracic use Upper Spine Bursa and Ligament
+Main             Lithotripsy
+     Revise from   with removal of fragments see Extirpation
+     Revise to     With removal of fragments see Extirpation
+
+
+Lttr             M
+Main Add         Mediastinal cavity use Mediastinum
+Main Add         Mediastinal space use Mediastinum
+
+
+Lttr             N
+Main             New Technology
+     Add           Destruction, Prostate, Robotic Waterjet Ablation XV508A4
+     Add           Plazomicin Anti-infective XW0
+     Add           Synthetic Human Angiotensin II XW0
+
+
+Lttr             P
+Main Revise from Patch, blood, spinal 3E0S3GC
+     Revise to   Patch, blood, spinal 3E0R3GC
+Main             Performance
+     Delete        Circulatory, Continuous, Oxygenation, Membrane 5A15223
+     Add           Circulatory
+     Add             Central Membrane 5A1522F
+     Add             Peripheral Veno-arterial Membrane 5A1522G
+     Add             Peripheral Veno-venous Membrane 5A1522H
+Main             Photocoagulation
+     Revise from   for Destruction see Destruction
+     Revise to     For Destruction see Destruction
+     Revise from   for Repair see Repair
+     Revise to     For Repair see Repair
+Main Add         Plazomicin Anti-infective XW0
+
+
+Lttr             R
+Main Add         Retroperitoneal cavity use Retroperitoneum
+Main Revise from Rhytidectomy see Face lift
+     Revise to   Rhytidectomy see Alteration, Face 0W02
+Main Add         Robotic Waterjet Ablation, Destruction, Prostate XV508A4
+
+
+Lttr             S
+Main Add         Sclerotherapy, via injection of sclerosing agent see Introduction, Destructive Agent
+Main Add         Spacer, Articulating (Antibiotic) use Articulating Spacer in Lower Joints
+Main Add         Spacer, Static (Antibiotic) use Spacer in Lower Joints
+Main Add         Static Spacer (Antibiotic) use Spacer in Lower Joints
+Main Add         Stent retriever thrombectomy see Extirpation, Upper Arteries 03C
+Main Revise from Sternocostal ligament
+     Revise to   Sternocostal ligament use Sternum Bursa and Ligament
+     Delete        use Sternum Bursa and Ligament
+     Delete        use Rib(s) Bursa and Ligament
+Main Add         Supersaturated Oxygen therapy
+     Add           5A0512C
+     Add           5A0522C
+Main Add         Synthetic Human Angiotensin II XW0
+
+
+Lttr             T
+Main Revise from TBNA (transbronchial needle aspiration) see Drainage, Respiratory System 0B9
+     Revise to   TBNA (transbronchial needle aspiration)
+     Add           Fluid or gas see Drainage, Respiratory System 0B9
+     Add           Tissue biopsy see Extraction, Respiratory System 0BD
+Main Add         Tisagenlecleucel use Engineered Autologous Chimeric Antigen Receptor T-cell Immunotherapy
+Main             Transfer
+     Add           Prepuce 0VXT
+Main             Transplantation
+     Add           Uterus 0UY90Z

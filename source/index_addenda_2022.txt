@@ -1,0 +1,24 @@
+
+
+Lttr             B
+Main Add         Breyanzi(R) use Lisocabtagene Maraleucel Immunotherapy
+
+
+Lttr             C
+Main Add         COVID-19 Vaccine Booster XW0
+Main Add         COVID-19 Vaccine Dose 3 XW0
+
+
+Lttr             F
+Main Add         Fostamatinib XW0
+
+
+Lttr             N
+Main             New Technology
+     Add           COVID-19 Vaccine Booster XW0
+     Add           COVID-19 Vaccine Dose 3 XW0
+     Add           Fostamatinib XW0
+
+
+Lttr             R
+Main Add         RYBREVANT(tm) use Amivantamab Monoclonal Antibody

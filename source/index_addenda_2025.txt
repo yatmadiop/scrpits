@@ -1,0 +1,761 @@
+
+
+Lttr             A
+Main Add         Adductor pollicis muscle
+     Add           use Hand Muscle, Right
+     Add           use Hand Muscle, Left
+Main Add         Adhesive Ultrasound Patch Technology, Blood Flow XX25X0A
+Main Add         AGENT(tm) Paclitaxel-Coated Balloon see New Technology, Anatomical Regions XW0
+Main Add         AGN1 Bone Void Filler XW0V3WA
+Main Add         AMTAGVI(tm) use Lifileucel Immunotherapy
+Main Add         Anconeus muscle
+     Add           use Lower Arm and Wrist Muscle, Right
+     Add           use Lower Arm and Wrist Muscle, Left
+Main Add         Angio Vac System, for extracorporeal filtration during percutaneous thrombectomy 5A05A0L
+Main Add         Annalise Enterprise CTB Triage software (Measurement of Intracranial Cerebrospinal Fluid Flow) XXE0X1A
+Main Revise from Apalutamide Antineoplastic XW0DXJ5
+     Revise to   Apalutamide Antineoplastic use Other Antineoplastic
+Main             Assistance
+                   Circulatory
+     Add             Intraoperative, Filtration, Peripheral Veno-venous 5A05A0L
+Main Add         ASTar(R) XXE5X2A
+
+
+Lttr             B
+Main Add         Balversa(tm) (Erdafitinib Antineoplastic) use Other Antineoplastic
+Main Add         Bentracimab, Ticagrelor Reversal Agent XW0
+Main Add         Bioengineered Human Acellular Vessel X2R
+Main Add         BlackArmor(R) Carbon/PEEK fixation system use Carbon/PEEK Spinal Stabilization Device, Pedicle Based in New Technology
+Main Add         Brain Connectomic Analysis Mapping 00K0XZ1
+Main Add         Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries, Aorta, Thoracoabdominal X2VE3SA
+Main             Bypass
+     Add           Cisterna Chyli 071L
+     Add           Lymphatic
+     Add             Aortic 071D
+     Add             Axillary
+     Add               Left 0716
+     Add               Right 0715
+     Add             Head 0710
+     Add             Inguinal
+     Add               Left 071J
+     Add               Right 071H
+     Add             Internal Mammary
+     Add               Left 0719
+     Add               Right 0718
+     Add             Lower Extremity
+     Add               Left 071G
+     Add               Right 071F
+     Add             Mesenteric 071B
+     Add             Neck
+     Add               Left 0712
+     Add               Right 0711
+     Add             Pelvis 071C
+     Add             Thoracic Duct 071K
+     Add             Thorax 0717
+     Add             Upper Extremity
+     Add               Left 0714
+     Add               Right 0713
+
+
+Lttr             C
+Main Add         Carbon/PEEK Spinal Stabilization Device, Pedicle Based
+     Add           Lumbar Vertebral XRHB
+     Add             2 or more XRHC
+     Add           Lumbosacral XRHD
+     Add           Thoracic Vertebral XRH6
+     Add             2 to 7 XRH7
+     Add             8 or more XRH8
+     Add           Thoracolumbar Vertebral XRHA
+Main Add         CASGEVY(tm) use Exagamglogene Autotemcel
+Main Add         Cefepime-taniborbactam Anti-infective XW0
+Main Add         Ceftobiprole Medocaril Anti-infective XW0
+Main             Computerized Tomography (CT Scan)
+                   Vein
+     Delete          Spanchnic B52T
+     Delete            Intravascular Optical Coherence B52TZ2Z
+     Add             Splanchnic B52T
+     Add               Intravascular Optical Coherence B52TZ2Z
+Main Delete      CONTEPO(tm) use Fosfomycin Anti-infective
+Main Add         Connectomic Analysis (Brain) Mapping 00K0XZ1
+Main Add         CONTEPO(tm) (Fosfomycin Anti-infective) use Other Anti-infective
+
+
+Lttr             D
+Main Add         Dasiglucagon XW0136A
+Main Add         Debris collection circuit, during percutaneous thrombectomy 5A05A0L
+Main             Destruction
+                   Brain 0050
+     Add             Stereoelectroencephalographic Radiofrequency Ablation 00503Z4
+     Delete        Renal Sympathetic Nerve(s), Ultrasound Ablation X051329
+     Add           Renal Sympathetic Nerve(s)
+     Add             Radiofrequency Ablation X05133A
+     Add             Ultrasound Ablation X051329
+Main             Dilation
+                   Artery
+                     Anterior Tibial
+                       Left 047Q
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27Q385
+     Delete                Four or More X27Q3C5
+     Delete                Three X27Q3B5
+     Delete                Two X27Q395
+     Add                 Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27Q3TA
+                       Right 047P
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27P385
+     Delete                Four or More X27P3C5
+     Delete                Three X27P3B5
+     Delete                Two X27P395
+     Add                 Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27P3TA
+                     Femoral
+                       Left 047L
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27J385
+     Delete                Four or More X27J3C5
+     Delete                Three X27J3B5
+     Delete                Two X27J395
+                       Right 047K
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27H385
+     Delete                Four or More X27H3C5
+     Delete                Three X27H3B5
+     Delete                Two X27H395
+                     Peroneal
+                       Left 047U
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27U385
+     Delete                Four or More X27U3C5
+     Delete                Three X27U3B5
+     Delete                Two X27U395
+     Add                 Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27U3TA
+                       Right 047T
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27T385
+     Delete                Four or More X27T3C5
+     Delete                Three X27T3B5
+     Delete                Two X27T395
+     Add                 Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27T3TA
+                     Popliteal
+     Delete            Left Distal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27N385
+     Delete              Four or More X27N3C5
+     Delete              Three X27N3B5
+     Delete              Two X27N395
+     Delete            Left Proximal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27L385
+     Delete              Four or More X27L3C5
+     Delete              Three X27L3B5
+     Delete              Two X27L395
+     Delete            Right Distal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27M385
+     Delete              Four or More X27M3C5
+     Delete              Three X27M3B5
+     Delete              Two X27M395
+     Delete            Right Proximal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27K385
+     Delete              Four or More X27K3C5
+     Delete              Three X27K3B5
+     Delete              Two X27K395
+                     Posterior Tibial
+                       Left 047S
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27S385
+     Delete                Four or More X27S3C5
+     Delete                Three X27S3B5
+     Delete                Two X27S395
+     Add                 Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27S3TA
+                       Right 047R
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27R385
+     Delete                Four or More X27R3C5
+     Delete                Three X27R3B5
+     Delete                Two X27R395
+     Add                 Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27R3TA
+Main             Division
+     Add           Intraluminal Bioprosthetic Valve Leaflet Splitting Technology in Existing Valve X28F3VA
+Main Delete      Dnase (Deoxyoribonuclease) use Other Substance
+Main Add         Dnase (Deoxyribonuclease) use Other Substance
+Main Add         Donislecel-jujn Allogeneic Pancreatic Islet Cellular Suspension XW033DA
+Main Add         Drug-eluting resorbable scaffold intraluminal device use Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) in New Technology
+
+
+Lttr             E
+Main Add         EB-101 gene-corrected autologous cell therapy use Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy in New Technology
+Main Add         EB-101 gene-corrected keratinocyte sheets use Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy in New Technology
+Main Add         EBVALLO(tm) use Tabelecleucel Immunotherapy
+Main Add         Edwards EVOQUE tricuspid valve replacement system use Multi-plane Flex Technology Bioprosthetic Valve in New Technology
+Main Add         ELREXFIO(tm) use Elranatamab Antineoplastic
+Main             Eluvia(tm) Drug-Eluting Vascular Stent System
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting in New Technology
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting, Two in New Technology
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting, Three in New Technology
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting, Four or More in New Technology
+     Add           use Intraluminal Device, Drug-eluting in Lower Arteries
+     Add           use Intraluminal Device, Drug-eluting, Two in Lower Arteries
+     Add           use Intraluminal Device, Drug-eluting, Three in Lower Arteries
+     Add           use Intraluminal Device, Drug-eluting, Four or More in Lower Arteries
+Main Add         Emboli trap circuit, during percutaneous thrombectomy 5A05A0L
+Main Revise from Erdafitinib Antineoplastic XW0DXL5
+     Revise to   Erdafitinib Antineoplastic use Other Antineoplastic
+Main Delete      ERLEADA(tm) use Apalutamide Antineoplastic
+Main Add         ERLEADA(tm) (Apalutamide Antineoplastic) use Other Antineoplastic
+Main Revise from Esketamine Hydrochloride XW097M5
+     Revise to   Esketamine Hydrochloride use Other Substance
+Main Add         Esprit(tm) BTK (scaffold) (stent) use Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) in New Technology
+Main Add         Everolimus Eluting Resorbable Scaffold System use Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) in New Technology
+Main Add         Evo(R) sEEG-RF probes (for radiofrequency ablation of brain tissue) 00503Z4
+Main Add         Exploratory
+     Add           see Inspection, Anatomical Regions, General 0WJ
+     Add           see Laparotomy
+     Add           see Thoracotomy
+Main Add         Extracorporeal filter circuit, during percutaneous thrombectomy 5A05A0L
+Main Add         Extracorporeal Pathogen Removal Procedure XXA536A
+Main Add         Extracorporeal return, during percutaneous thrombectomy 5A05A0L
+
+
+Lttr             F
+Main Add         Facet FiXation implant use Facet Joint Fusion Device, Paired Titanium Cages in New Technology
+Main Add         Facet Joint Fusion Device, Paired Titanium Cages
+     Add           Lumbar Vertebral XRGB0EA
+     Add             2 or more XRGC0EA
+     Add           Lumbosacral XRGD0EA
+     Add           Thoracolumbar Vertebral XRGA0EA
+Main Add         FFX(R) (Facet FiXation) implant use Facet Joint Fusion Device, Paired Titanium Cages in New Technology
+Main Add         Fiber Optic 3D Guided Procedure, Circulatory System 8E023FZ
+Main Add         Filtration, Blood Pathogens XXA536A
+Main Add         Filtration circuit, during percutaneous thrombectomy 5A05A0L
+Main Add         Fish skin use Nonautologous Tissue Substitute
+Main Add         Fistulization, Tracheoesophageal 0B110D6
+Main Add         FloPatch FP120 XX25X0A
+Main             Fluoroscopy
+                   Pancreatic Duct BF1
+     Delete          Gallbladder and Bile Buct BF14
+     Add             Gallbladder and Bile Duct BF14
+     Delete        Pharynix B91G
+     Add           Pharynx B91G
+                   Vein
+     Delete          Spanchnic B51T
+     Add             Splanchnic B51T
+Main Revise from Fosfomycin Anti-infective XW0
+     Revise to   Fosfomycin Anti-infective use Other Anti-infective
+Main Delete      Fosfomycin injection use Fosfomycin Anti-infective
+Main             Fusion
+                   Ankle
+                     Left 0SGG
+     Add               Gyroid-Sheet Lattice Design Internal Fixation Device XRGK0CA
+                     Right 0SGF
+     Add               Gyroid-Sheet Lattice Design Internal Fixation Device XRGJ0CA
+                   Lumbar Vertebral 0SG0
+                     2 or more 0SG1
+     Add               Facet Joint Fusion Device, Paired Titanium Cages XRGC0EA
+     Add             Facet Joint Fusion Device, Paired Titanium Cages XRGB0EA
+                   Lumbosacral 0SG3
+     Add             Facet Joint Fusion Device, Paired Titanium Cages XRGD0EA
+                   Tarsal
+                     Left 0SGJ
+     Add               Gyroid-Sheet Lattice Design Internal Fixation Device XRGM0CA
+                     Right 0SGH
+     Add               Gyroid-Sheet Lattice Design Internal Fixation Device XRGL0CA
+                   Thoracolumbar Vertebral 0RGA
+     Add             Facet Joint Fusion Device, Paired Titanium Cages XRGA0EA
+
+
+Lttr             G
+Main Delete      Gilteritinib Antineoplastic XW0DXV5
+Main Add         Gilteritinib use Other Antineoplastic
+Main Add         GORE(R) EXCLUDER(R) TAMBE Device (Thoracoabdominal Branch Endoprosthesis) use Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries in New Technology
+Main Add         Gyroid-Sheet Lattice Design Internal Fixation Device
+     Add           Ankle
+     Add             Left XRGK0CA
+     Add             Right XRGJ0CA
+     Add           Tarsal
+     Add             Left XRGM0CA
+     Add             Right XRGL0CA
+
+
+Lttr             H
+Main Add         Hamstring muscle
+     Add           use Upper Leg Muscle, Right
+     Add           use Upper Leg Muscle, Left
+Main Add         HAV(tm) (Human Acellular Vessel) use Bioengineered Human Acellular Vessel in New Technology
+Main Add         Human Acellular Vessel(tm) (HAV) use Bioengineered Human Acellular Vessel in New Technology
+
+
+Lttr             I
+Main Add         Iliopsoas muscle
+     Add           use Hip Muscle, Right
+     Add           use Hip Muscle, Left
+Main Revise from IMI/REL use Imipenem-cilastatin-relebactam Anti-infective
+     Revise to   IMI/REL use Other Anti-infective
+Main Revise from Imipenem-cilastatin-relebactam Anti-infective XW0
+     Revise to   Imipenem-cilastatin-relebactam Anti-infective use Other Anti-infective
+Main Add         Innova(tm) stent use Intraluminal Device
+Main             Insertion
+                   Joint
+     Delete          Lumbar Vertebral, Posterior Spinal Motion Preservation Device XRHB018
+     Delete          Lumbosacral, Posterior Spinal Motion Preservation Device XRHD018
+     Add             Lumbar Vertebral
+     Add               2 or more, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHC
+     Add               Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHB
+     Add               Posterior Spinal Motion Preservation Device XRHB018
+     Add             Lumbosacral
+     Add               Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHD
+     Add               Posterior Spinal Motion Preservation Device XRHD018
+     Add             Thoracic Vertebral
+     Add               2 to 7, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRH7
+     Add               8 or more, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRH8
+     Add               Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRH6
+     Add             Thoracolumbar Vertebral, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHA
+Main Add         Inspiris Resilia valve use Zooplastic Tissue in Heart and Great Vessels
+Main Add         Intracranial Cerebrospinal Fluid Flow, Computer-aided Triage and Notification XXE0X1A
+Main Add         Intraluminal Bioprosthetic Valve Leaflet Splitting Technology in Existing Valve, Division X28F3VA
+Main             Intraluminal Device
+     Add           Everolimus-eluting Resorbable Scaffold(s)
+     Add             Anterior Tibial
+     Add               Left X27Q3TA
+     Add               Right X27P3TA
+     Add             Peroneal
+     Add               Left X27U3TA
+     Add               Right X27T3TA
+     Add             Posterior Tibial
+     Add               Left X27S3TA
+     Add               Right X27R3TA
+
+
+Lttr             J
+Main Delete      Jakafi(R) use Ruxolitinib
+Main Add         JAKAFI(R) (Ruxolitinib) use Other Substance
+
+
+Lttr             K
+Main Add         Kerecis(R) (GraftGuide) (MariGen) (SurgiBind) (SurgiClose) use Nonautologous Tissue Substitute
+
+
+Lttr             L
+Main Add         Lantidra(tm) use Donislecel-jujn Allogeneic Pancreatic Islet Cellular Suspension
+Main Add         Leaflet laceration/division/modification/splitting device, used during transcatheter aortic valve replacement (TAVR) procedure X28F3VA
+Main Add         LimFlow(tm) TADV (Transcatheter Arterialization of the Deep Veins) Procedure see Bypass, Lower Arteries 041
+Main Add         LimFlow(tm) Transcatheter Arterialization of the Deep Veins (TADV) System use Synthetic Substitute
+Main Add         LOEP(R) (Local Osteo-Enhancement Procedure) XW0V3WA
+Main Add         Lumbar Artery Perforator Flap
+     Add           Bilateral 0HRV07B
+     Add           Left 0HRU07B
+     Add           Right 0HRT07B
+Main Add         LumiGuide (Fiber optic 3D guidance for endovascular procedures) 8E023FZ
+Main Add         LVA (Lymphovenous Anastomosis) see Bypass, Lymphatic and Hemic Systems 071
+Main Add         LVB (Lymphovenous Bypass) see Bypass, Lymphatic and Hemic Systems 071
+Main Add         LYFGENIA(tm) use Lovotibeglogene Autotemcel
+Main Add         Lymphaticovenular Anastomosis see Bypass, Lymphatic and Hemic Systems 071
+Main Add         Lymphovenous Anastomosis (LVA) see Bypass, Lymphatic and Hemic Systems 071
+Main Add         Lymphovenous Bypass (LVB) see Bypass, Lymphatic and Hemic Systems 071
+Main Add         Lymphovenous Shunt see Bypass, Lymphatic and Hemic Systems 071
+Main Add         LZRSE-COL7A1 engineered autologous epidermal sheets use Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy in New Technology
+
+
+Lttr             M
+Main             Magnetic Resonance Imaging (MRI)
+                   Vein
+     Delete          Spanchnic B53T
+     Add             Splanchnic B53T
+Main             Map
+                   Brain 00K0
+     Add             Connectomic Analysis 00K0XZ1
+Main             Mapping
+     Add           Connectomic Analysis (Brain) 00K0XZ1
+Main Add         Marnetegragene Autotemcel XW1
+Main             Measurement
+     Delete        Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+     Add           Intracranial Cerebrospinal Fluid Flow, Computer-aided Triage and Notification XXE0X1A
+     Add           Phenotypic Fully Automated Rapid Susceptibility Technology with Controlled Inoculum XXE5X2A
+     Add           Positive Blood Culture Small Molecule Sensor Array Technology XXE5X4A
+Main Revise from Meropenem-vaborbactam Anti-infective XW0
+     Revise to   Meropenem-vaborbactam Anti-infective use Other Anti-infective
+Main Add         Microsurgical Lymph Bypass see Bypass, Lymphatic and Hemic Systems 071
+Main             Monitoring
+     Add           Adhesive Ultrasound Patch Technology, Blood Flow XX25X0A
+Main Add         Multi-plane Flex Technology Bioprosthetic Valve X2RJ3RA
+
+
+Lttr             N
+Main             New Technology
+     Add           Adhesive Ultrasound Patch Technology, Blood Flow XX25X0A
+     Add           AGN1 Bone Void Filler XW0V3WA
+                   Aorta
+     Add             Thoracoabdominal, Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries X2VE3SA
+     Delete        Apalutamide Antineoplastic XW0DXJ5
+     Add           Bentracimab, Ticagrelor Reversal Agent XW0
+     Add           Bioengineered Human Acellular Vessel X2R
+     Add           Cefepime-taniborbactam Anti-infective XW0
+     Add           Ceftobiprole Medocaril Anti-infective XW0
+     Add           Dasiglucagon XW0136A
+                   Dilation
+                     Anterior Tibial
+     Delete            Left
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27Q385
+     Delete              Four or More X27Q3C5
+     Delete              Three X27Q3B5
+     Delete              Two X27Q395
+     Delete            Right
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27P385
+     Delete              Four or More X27P3C5
+     Delete              Three X27P3B5
+     Delete              Two X27P395
+     Add               Left, Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27Q3TA
+     Add               Right, Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27P3TA
+     Delete          Femoral
+     Delete            Left
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27J385
+     Delete              Four or More X27J3C5
+     Delete              Three X27J3B5
+     Delete              Two X27J395
+     Delete            Right
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27H385
+     Delete              Four or More X27H3C5
+     Delete              Three X27H3B5
+     Delete              Two X27H395
+                     Peroneal
+     Delete            Left
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27U385
+     Delete              Four or More X27U3C5
+     Delete              Three X27U3B5
+     Delete              Two X27U395
+     Delete            Right
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27T385
+     Delete              Four or More X27T3C5
+     Delete              Three X27T3B5
+     Delete              Two X27T395
+     Add               Left, Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27U3TA
+     Add               Right, Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27T3TA
+     Delete          Popliteal
+     Delete            Left Distal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27N385
+     Delete              Four or More X27N3C5
+     Delete              Three X27N3B5
+     Delete              Two X27N395
+     Delete            Left Proximal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27L385
+     Delete              Four or More X27L3C5
+     Delete              Three X27L3B5
+     Delete              Two X27L395
+     Delete            Right Distal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27M385
+     Delete              Four or More X27M3C5
+     Delete              Three X27M3B5
+     Delete              Two X27M395
+     Delete            Right Proximal
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27K385
+     Delete              Four or More X27K3C5
+     Delete              Three X27K3B5
+     Delete              Two X27K395
+                     Posterior Tibial
+     Delete            Left
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27S385
+     Delete              Four or More X27S3C5
+     Delete              Three X27S3B5
+     Delete              Two X27S395
+     Delete            Right
+     Delete              Sustained Release Drug-eluting Intraluminal Device X27R385
+     Delete              Four or More X27R3C5
+     Delete              Three X27R3B5
+     Delete              Two X27R395
+     Add               Left, Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27S3TA
+     Add               Right, Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s) X27R3TA
+     Delete        Erdafitinib Antineoplastic XW0DXL5
+     Delete        Esketamine Hydrochloride XW097M5
+     Delete        Fosfomycin Anti-infective XW0
+     Add           Division, Intraluminal Bioprosthetic Valve Leaflet Splitting Technology in Existing Valve X28F3VA
+     Add           Donislecel-jujn Allogeneic Pancreatic Islet Cellular Suspension XW033DA
+     Add           Filtration, Blood Pathogens XXA536A
+                   Fusion
+                     Ankle
+     Delete            Left, Open-truss Design Internal Fixation Device XRGK0B9
+     Delete            Right, Open-truss Design Internal Fixation Device XRGJ0B9
+     Add               Left
+     Add                 Gyroid-Sheet Lattice Design Internal Fixation Device XRGK0CA
+     Add                 Open-truss Design Internal Fixation Device XRGK0B9
+     Add               Right
+     Add                 Gyroid-Sheet Lattice Design Internal Fixation Device XRGJ0CA
+     Add                 Open-truss Design Internal Fixation Device XRGJ0B9
+                     Lumbar Vertebral
+     Delete            2 or more, Interbody Fusion Device, Custom-Made Anatomically Designed XRGC
+     Add               2 or more
+     Add                 Facet Joint Fusion Device, Paired Titanium Cages XRGC0EA
+     Add                 Interbody Fusion Device, Custom-Made Anatomically Designed XRGC
+     Add               Facet Joint Fusion Device, Paired Titanium Cages XRGB0EA
+     Delete          Lumbosacral, Interbody Fusion Device, Custom-Made Anatomically Designed XRGD
+     Add             Lumbosacral
+     Add               Facet Joint Fusion Device, Paired Titanium Cages XRGD0EA
+     Add               Interbody Fusion Device, Custom-Made Anatomically Designed XRGD
+                     Tarsal
+     Delete            Left, Open-truss Design Internal Fixation Device XRGM0B9
+     Delete            Right, Open-truss Design Internal Fixation Device XRGL0B9
+     Add               Left
+     Add                 Gyroid-Sheet Lattice Design Internal Fixation Device XRGM0CA
+     Add                 Open-truss Design Internal Fixation Device XRGM0B9
+     Add               Right
+     Add                 Gyroid-Sheet Lattice Design Internal Fixation Device XRGL0CA
+     Add                 Open-truss Design Internal Fixation Device XRGL0B9
+     Delete          Thoracolumbar Vertebral, Interbody Fusion Device, Custom-Made Anatomically Designed XRGA
+     Add             Thoracolumbar Vertebral
+     Add               Facet Joint Fusion Device, Paired Titanium Cages XRGA0EA
+     Add               Interbody Fusion Device, Custom-Made Anatomically Designed XRGA
+     Delete        Gilteritinib Antineoplastic XW0DXV5
+     Delete        Imipenem-cilastatin-relebactam Anti-infective XW0
+                   Insertion
+                     Joint
+     Delete            Lumbar Vertebral, Posterior Spinal Motion Preservation Device XRHB018
+     Delete            Lumbosacral, Posterior Spinal Motion Preservation Device XRHD018
+     Add               Lumbar Vertebral
+     Add                 2 or more, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHC
+     Add                 Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHB
+     Add                 Posterior Spinal Motion Preservation Device XRHB018
+     Add               Lumbosacral
+     Add                 Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHD
+     Add                 Posterior Spinal Motion Preservation Device XRHD018
+     Add               Thoracic Vertebral
+     Add                 2 to 7, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRH7
+     Add                 8 or more, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRH8
+     Add                 Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRH6
+     Add               Thoracolumbar Vertebral, Carbon/PEEK Spinal Stabilization Device, Pedicle Based XRHA
+     Delete        Meropenem-vaborbactam Anti-infective XW0
+     Delete        Ruxolitinib XW0DXT5
+     Delete        Venetoclax Antineoplastic XW0DXR5
+     Delete        Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+     Add           Intracranial Cerebrospinal Fluid Flow, Computer-aided Triage and Notification XXE0X1A
+     Add           Marnetegragene Autotemcel XW1
+     Add           Multi-plane Flex Technology Bioprosthetic Valve X2RJ3RA
+     Add           Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy XW0
+     Add           Obecabtagene Autoleucel XW0
+     Add           Odronextamab Antineoplastic XW0
+     Add           Orca-T Allogeneic T-cell Immunotherapy XW0
+     Add           Paclitaxel-Coated Balloon Technology XW0
+     Add           Phenotypic Fully Automated Rapid Susceptibility Technology with Controlled Inoculum XXE5X2A
+     Add           Positive Blood Culture Small Molecule Sensor Array Technology XXE5X4A
+     Add           Renal Sympathetic Nerve(s), Radiofrequency Ablation X05133A
+     Add           Skin
+     Add             Abdomen, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR2XGA
+     Add             Back, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR3XGA
+     Add             Chest, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR1XGA
+     Add             Head and Neck, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR0XGA
+     Add             Lower Extremity
+     Add               Left, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR7XGA
+     Add               Right, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR6XGA
+     Add             Upper Extremity
+     Add               Left, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR5XGA
+     Add               Right, Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy XHR4XGA
+     Add           Vancomycin Hydrochloride and Tobramycin Sulfate Anti-Infective, Temporary Irrigation Spacer System XW0U0GA
+     Add           Zanidatamab Antineoplastic XW0
+Main Add         Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy XW0
+
+
+Lttr             O
+Main Add         obe-cel use Obecabtagene Autoleucel
+Main Add         Obecabtagene Autoleucel XW0
+Main Add         Odronextamab Antineoplastic XW0
+Main Add         OneRF(tm) Ablation System 00503Z4
+Main Add         Orca-T Allogeneic T-cell Immunotherapy XW0
+Main Add         OSSURE(R) XW0V3WA
+Main Add         OSSURE(tm) implant material use AGN1 Bone Void Filler
+
+
+Lttr             P
+Main Delete      Petrous part of temoporal bone
+     Delete        use Temporal Bone, Right
+     Delete        use Temporal Bone, Left
+Main Add         Paclitaxel-Coated Balloon Technology XW0
+Main Add         Percutaneous tricuspid valve replacement
+     Add           EVOQUE valve/system (Edwards) X2RJ3RA
+     Add           Other valve/system 02RJ38Z
+Main Add         Petrous part of temporal bone
+     Add           use Temporal Bone, Right
+     Add           use Temporal Bone, Left
+Main Revise from Pharyngogram see Fluoroscopy, Pharynix B91G
+     Revise to   Pharyngogram see Fluoroscopy, Pharynx B91G
+Main Add         Phenotypic Fully Automated Rapid Susceptibility Technology with Controlled Inoculum XXE5X2A
+Main Add         Piscine skin use Nonautologous Tissue Substitute
+Main             Plain Radiography
+                   Vein
+     Delete          Spanchnic B50T
+     Add             Splanchnic B50T
+Main Add         Plantaris muscle
+     Add           use Lower Leg Muscle, Right
+     Add           use Lower Leg Muscle, Left
+Main Add         Positive Blood Culture Small Molecule Sensor Array Technology XXE5X4A
+Main Add         Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy
+     Add           Abdomen XHR2XGA
+     Add           Back XHR3XGA
+     Add           Chest XHR1XGA
+     Add           Head and Neck XHR0XGA
+     Add           Lower Extremity
+     Add             Left XHR7XGA
+     Add             Right XHR6XGA
+     Add           Upper Extremity
+     Add             Left XHR5XGA
+     Add             Right XHR4XGA
+Main Add         Prevesical space use Pelvic Cavity
+Main Add         pz-cel use Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy in New Technology
+
+
+Lttr             Q
+Main Add         Quicktome 00K0XZ1
+
+
+Lttr             R
+Main Add         Radiofrequency Ablation
+     Add           see Destruction
+     Add           Brain, Stereoelectroencephalographic (sEEG) 00503Z4
+     Add           Renal Sympathetic Nerve(s) X05133A
+Main Add         RECARBRIO(tm) (Imipenem-cilastatin-relebactam Anti-infective) use Other Anti-infective
+Main Add         restor3d TIDAL(tm) Fusion Cage use Internal Fixation Device, Gyroid-Sheet Lattice Design in New Technology
+Main Add         Resuscitative thoracotomy
+     Add           see Control bleeding in, Mediastinum 0W3C
+     Add           see Control bleeding in, Pericardial Cavity 0W3D
+Main Add         RP-L201 use Marnetegragene Autotemcel
+Main Revise from Ruxolitinib XW0DXT5
+     Revise to   Ruxolitinib use Other Substance
+
+
+Lttr             S
+Main             SAVAL below-the-knee (BTK) drug-eluting stent system
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting in New Technology
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting, Two in New Technology
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting, Three in New Technology
+     Delete        use Intraluminal Device, Sustained Release Drug-eluting, Four or More in New Technology
+     Add           use Intraluminal Device, Drug-eluting in Lower Arteries
+     Add           use Intraluminal Device, Drug-eluting, Two in Lower Arteries
+     Add           use Intraluminal Device, Drug-eluting, Three in Lower Arteries
+     Add           use Intraluminal Device, Drug-eluting, Four or More in Lower Arteries
+Main Delete      SPRAVATO(tm) use Esketamine Hydrochloride
+Main Delete      Sustained Release Drug-eluting Intraluminal Device
+     Delete        Dilation
+     Delete          Anterior Tibial
+     Delete            Left X27Q385
+     Delete            Right X27P385
+     Delete          Femoral
+     Delete            Left X27J385
+     Delete            Right X27H385
+     Delete          Peroneal
+     Delete            Left X27U385
+     Delete            Right X27T385
+     Delete          Popliteal
+     Delete            Left Distal X27N385
+     Delete            Left Proximal X27L385
+     Delete            Right Distal X27M385
+     Delete            Right Proximal X27K385
+     Delete          Posterior Tibial
+     Delete            Left X27S385
+     Delete            Right X27R385
+     Delete        Four or More
+     Delete          Anterior Tibial
+     Delete            Left X27Q3C5
+     Delete            Right X27P3C5
+     Delete          Femoral
+     Delete            Left X27J3C5
+     Delete            Right X27H3C5
+     Delete          Peroneal
+     Delete            Left X27U3C5
+     Delete            Right X27T3C5
+     Delete          Popliteal
+     Delete            Left Distal X27N3C5
+     Delete            Left Proximal X27L3C5
+     Delete            Right Distal X27M3C5
+     Delete            Right Proximal X27K3C5
+     Delete          Posterior Tibial
+     Delete            Left X27S3C5
+     Delete            Right X27R3C5
+     Delete        Three
+     Delete          Anterior Tibial
+     Delete            Left X27Q3B5
+     Delete            Right X27P3B5
+     Delete          Femoral
+     Delete            Left X27J3B5
+     Delete            Right X27H3B5
+     Delete          Peroneal
+     Delete            Left X27U3B5
+     Delete            Right X27T3B5
+     Delete          Popliteal
+     Delete            Left Distal X27N3B5
+     Delete            Left Proximal X27L3B5
+     Delete            Right Distal X27M3B5
+     Delete            Right Proximal X27K3B5
+     Delete          Posterior Tibial
+     Delete            Left X27S3B5
+     Delete            Right X27R3B5
+     Delete        Two
+     Delete          Anterior Tibial
+     Delete            Left X27Q395
+     Delete            Right X27P395
+     Delete          Femoral
+     Delete            Left X27J395
+     Delete            Right X27H395
+     Delete          Peroneal
+     Delete            Left X27U395
+     Delete            Right X27T395
+     Delete          Popliteal
+     Delete            Left Distal X27N395
+     Delete            Left Proximal X27L395
+     Delete            Right Distal X27M395
+     Delete            Right Proximal X27K395
+     Delete          Posterior Tibial
+     Delete            Left X27S395
+     Delete            Right X27R395
+Main Delete      Synchra CRT-P use Cardiac Resynchronization Pacemaker Pulse Generator in 0JH
+Main Add         sEEG radiofrequency ablation (RFA) 00503Z4
+Main Add         Seraph(R) 100 Microbind(R) Affinity Blood Filter XXA536A
+Main Add         ShortCut(tm), used during transcatheter aortic valve replacement (TAVR) procedure X28F3VA
+Main Add         SPRAVATO(tm) (Esketamine Hydrochloride) use Other Substance
+Main Add         Stereoelectroencephalographic Radiofrequency (sEEG) Ablation 00503Z4
+Main Add         Symplicity Spyral(tm) Renal Denervation System X05133A
+Main Add         Syncra CRT-P use Cardiac Resynchronization Pacemaker Pulse Generator in 0JH
+
+
+Lttr             T
+Main Add         T-cell Antigen Coupler T-cell (TAC-T) Therapy use Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy
+Main Add         T-cell Receptor-Engineered T-cell (TCR-T) Therapy use Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy
+Main Add         TAMBE Device (Thoracoabdominal Branch Endoprosthesis), GORE(R) EXCLUDER(R) use Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries in New Technology
+Main Add         Temperature-controlled sEEG radiofrequency ablation 00503Z4
+Main Revise from Thoracotomy see Drainage, Anatomical Regions, General 0W9
+     Revise to   Thoracotomy
+     Add           see Control bleeding in, Mediastinum 0W3C
+     Add           see Control bleeding in, Pericardial Cavity 0W3D
+     Add           see Drainage, Anatomical Regions, General 0W9
+     Add           Exploratory see Inspection, Anatomical Regions, General 0WJ
+Main Delete      Tympanic part of temoporal bone
+     Delete        use Temporal Bone, Right
+     Delete        use Temporal Bone, Left
+Main Add         Tracheoesophageal Puncture (TEP) 0B110D6
+Main Add         Transcatheter tricuspid valve replacement
+     Add           EVOQUE valve/system (Edwards) X2RJ3RA
+     Add           Other valve/system 02RJ38Z
+Main Add         TTVR see Transcatheter tricuspid valve replacement
+Main Add         Tumor-Infiltrating Lymphocyte (TIL) Therapy use Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy
+Main Add         Tympanic part of temporal bone
+     Add           use Temporal Bone, Right
+     Add           use Temporal Bone, Left
+
+
+Lttr             U
+Main             Ultrasonography
+                   Vein
+     Delete          Spanchnic, Intravascular B54TZZ3
+     Add             Splanchnic, Intravascular B54TZZ3
+
+
+Lttr             V
+Main Delete      Vabomere(tm) use Meropenem-vaborbactam Anti-infective
+Main Delete      Venclexta(R) use Venetoclax Antineoplastic
+Main Delete      Venetoclax Antineoplastic XW0DXR5
+Main Add         VABOMERE(tm) (Meropenem-vaborbactam Anti-infective) use Other Anti-infective
+Main Add         VADER(R) Pedicle System use Carbon/PEEK Spinal Stabilization Device, Pedicle Based in New Technology
+Main Add         Vancomycin Hydrochloride and Tobramycin Sulfate Anti-Infective, Temporary Irrigation Spacer System XW0U0GA
+Main Add         Venclexta(R) (Venetoclax Antineoplastic tablets) use Other Antineoplastic
+Main Add         Venetoclax Antineoplastic (tablets) use Other Antineoplastic
+Main Add         Veno-venous bypass, during percutaneous thrombectomy 5A05A0L
+Main Add         Veno-venous circuit, during percutaneous thrombectomy 5A05A0L
+Main Add         VITEK(R) REVEAL(tm) Rapid AST System XXE5X4A
+Main Add         VT-X7 (Irrigation System) (Spacer) use Vancomycin Hydrochloride and Tobramycin Sulfate Anti-Infective, Temporary Irrigation Spacer System
+
+
+Lttr             W
+Main Delete      Whole Blood Nucleic Acid-base Microbial Detection XXE5XM5
+
+
+Lttr             X
+Main Delete      XOSPATA(R) use Gilteritinib Antineoplastic
+Main Add         XOSPATA(R) (Gilteritinib) use Other Antineoplastic
+
+
+Lttr             Z
+Main Add         Zanidatamab Antineoplastic XW0

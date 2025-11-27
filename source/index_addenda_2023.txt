@@ -1,0 +1,82 @@
+
+
+Lttr             C
+Main Add         COMIRNATY(R)
+     Add           use COVID-19 Vaccine Dose 1
+     Add           use COVID-19 Vaccine Dose 2
+     Add           use COVID-19 Vaccine
+     Add           use COVID-19 Vaccine Dose 3
+     Add           use COVID-19 Vaccine Booster
+Main Add         CTX001(tm) use Exagamglogene Autotemcel
+
+
+Lttr             D
+Main Delete      DynaNail(R) (Hybrid)(Mini)
+     Delete        use Internal Fixation Device, Sustained Compression in 0RG
+     Delete        use Internal Fixation Device, Sustained Compression in 0SG
+Main Add         DynaNail(R) (Helix)(Hybrid)(Mini)
+     Add           use Internal Fixation Device, Sustained Compression in 0RG
+     Add           use Internal Fixation Device, Sustained Compression in 0SG
+
+
+Lttr             E
+Main Add         Exagamglogene Autotemcel XW1
+
+
+Lttr             L
+Main             Laser Interstitial Thermal Therapy
+     Add           Sacrum 0Q51
+     Add           Vertebra
+     Add             Cervical 0P53
+     Add             Lumbar 0Q50
+     Add             Thoracic 0P54
+
+
+Lttr             N
+Main             New Technology
+     Add           Exagamglogene Autotemcel XW1
+     Add           Sabizabulin XW0
+
+
+Lttr             O
+Main             Occlusion
+                   Aorta
+     Revise from     Thoracic, Descending 02LW3DJ
+     Revise to       Thoracic, Descending 02LW
+Main             Oxygenation
+     Revise from   Supersaturated see Assistance, Circulatory 5A05
+     Revise to     Supersaturated see Assistance, Cardiac 5A02
+
+
+Lttr             S
+Main Delete      Supersaturated Oxygen therapy
+     Delete        5A0512C
+     Delete        5A0522C
+Main Add         Sabizabulin XW0
+Main Add         Space of Retzius use Pelvic Cavity
+Main Add         SPIKEVAX(tm)
+     Add           use COVID-19 Vaccine Dose 1
+     Add           use COVID-19 Vaccine Dose 2
+     Add           use COVID-19 Vaccine
+     Add           use COVID-19 Vaccine Dose 3
+     Add           use COVID-19 Vaccine Booster
+
+
+Lttr             T
+Main             Transfusion
+     Delete        Immunotherapy see New Technology, Anatomical Regions XW2
+     Add           Bone Marrow
+     Add             Blood
+     Add               Platelets 302A3R
+     Add               Red Cells 302A3N
+     Add                 Frozen 302A3P
+     Add               Whole 302A3H
+     Add             Plasma
+     Add               Fresh 302A3L
+     Add               Frozen 302A3K
+     Add             Serum Albumin 302A3J
+     Add           New Technology see New Technology, Anatomical Regions XW1
+
+
+Lttr             V
+Main Add         Vertebral artery, intracranial portion use Intracranial Artery
