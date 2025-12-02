@@ -111,8 +111,8 @@ def translate_excel_to_french(
 
 if __name__ == "__main__":
     translate_excel_to_french(
-        input_xlsx="sitetype.icdo3.d20220429 (1).xlsx",
-        output_xlsx="sitetype.icdo3.d20220429.fr.xlsx",
+        input_xlsx="source/sitetype.icdo3.d20220429 (1).xlsx",
+        output_xlsx="files/sitetype.icdo3.d20220429.fr.xlsx",
         target_lang="fr",
         batch_size=200,
     )
