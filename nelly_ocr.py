@@ -57,6 +57,6 @@ def pdf_to_html_ocr(pdf_path, html_path, dpi=300, lang="eng+fra"):
     print(f"Terminé ! Fichier enregistré sous : {html_path}")
 
 if __name__ == "__main__":
-    pdf_file = "source/nelly1.pdf"
+    pdf_file = "files/nelly1.pdf"
     html_file = "data/nelly_ocr.html"
     pdf_to_html_ocr(pdf_file, html_file, dpi=300, lang="eng+fra")

@@ -12,7 +12,7 @@ import urllib3
 # =========================
 
 URL_ARP = "https://arp.sn/liste-des-amms/"
-FICHIER_COMPO = "CIS_COMPO_bdpm.txt"               # chemin vers COMPO
+FICHIER_COMPO = "files/CIS_COMPO_bdpm.txt"               # chemin vers COMPO
 
 FICHIER_SUBSTANCES = "substances_par_medicament.csv"
 FICHIER_MEDICAMENTS = "codes_medicaments.csv"
@@ -203,12 +203,20 @@ def main():
     # =========================
     # 5) FICHIER 1 : SUBSTANCE / MEDICAMENT (match trouvés)
     # =========================
+# =========================
+# 5) FICHIER 1 : SUBSTANCE / MEDICAMENT (match trouvés)
+# =========================
     df_sub_out = (
         df_arp_sub[["Code_substance", "Libelle_substance", "Code_ARP"]]
         .dropna(subset=["Code_substance"])      # on enlève les non matchés
         .drop_duplicates()
         .reset_index(drop=True)
     )
+
+    # Convert Code_substance to string and sort by Code_ARP
+    df_sub_out["Code_substance"] = df_sub_out["Code_substance"].astype(str)
+    df_sub_out = df_sub_out.sort_values(by="Code_ARP", ascending=True)
+
 
     df_sub_out.to_csv(FICHIER_SUBSTANCES, index=False, sep=";", encoding="utf-8-sig")
     print(f"✅ Fichier substances créé : {FICHIER_SUBSTANCES}")
